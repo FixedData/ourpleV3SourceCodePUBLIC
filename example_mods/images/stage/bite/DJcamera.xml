@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DJcamera.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CamFLIP0000" x="10" y="10" width="2124" height="322" frameX="-144" frameY="-1133" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0001" x="10" y="10" width="2124" height="322" frameX="-144" frameY="-1133" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0002" x="2144" y="10" width="2044" height="418" frameX="-174" frameY="-1040" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0003" x="2144" y="10" width="2044" height="418" frameX="-174" frameY="-1040" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0004" x="4198" y="10" width="2073" height="733" frameX="-177" frameY="-734" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0005" x="4198" y="10" width="2073" height="733" frameX="-177" frameY="-734" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0006" x="10" y="753" width="2229" height="1077" frameX="-113" frameY="-404" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0007" x="10" y="753" width="2229" height="1077" frameX="-113" frameY="-404" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0008" x="2249" y="753" width="2277" height="1184" frameX="-92" frameY="-317" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0009" x="2249" y="753" width="2277" height="1184" frameX="-92" frameY="-317" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0010" x="4536" y="753" width="2342" height="1394" frameX="-94" frameY="-190" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0011" x="4536" y="753" width="2342" height="1394" frameX="-94" frameY="-190" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0012" x="10" y="2157" width="2342" height="1394" frameX="-94" frameY="-190" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0013" x="10" y="2157" width="2342" height="1394" frameX="-94" frameY="-190" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0014" x="2362" y="2157" width="2464" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0015" x="2362" y="2157" width="2464" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0016" x="4836" y="2157" width="2253" height="1547" frameX="-92" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0017" x="4836" y="2157" width="2253" height="1547" frameX="-92" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0018" x="10" y="3714" width="2783" height="1547" frameX="-92" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0019" x="10" y="3714" width="2783" height="1547" frameX="-92" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0020" x="2803" y="3714" width="2145" height="1547" frameX="-154" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0021" x="2803" y="3714" width="2145" height="1547" frameX="-154" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0022" x="4958" y="3714" width="2209" height="1547" frameX="-92" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0023" x="4958" y="3714" width="2209" height="1547" frameX="-92" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0024" x="10" y="5271" width="2220" height="1547" frameX="-92" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamFLIP0025" x="10" y="5271" width="2220" height="1547" frameX="-92" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0000" x="2240" y="5271" width="2145" height="1547" frameX="-62" frameY="0" frameWidth="2220" frameHeight="1547"/>
+	<SubTexture name="CamLOOP0001" x="2240" y="5271" width="2145" height="1547" frameX="-62" frameY="0" frameWidth="2220" frameHeight="1547"/>
+	<SubTexture name="CamLOOP0002" x="4395" y="5271" width="2209" height="1547" frameX="0" frameY="0" frameWidth="2220" frameHeight="1547"/>
+	<SubTexture name="CamLOOP0003" x="4395" y="5271" width="2209" height="1547" frameX="0" frameY="0" frameWidth="2220" frameHeight="1547"/>
+	<SubTexture name="CamLOOP0006" x="2240" y="5271" width="2145" height="1547" frameX="-62" frameY="0" frameWidth="2220" frameHeight="1547"/>
+	<SubTexture name="CamLOOP0007" x="2240" y="5271" width="2145" height="1547" frameX="-62" frameY="0" frameWidth="2220" frameHeight="1547"/>
+	<SubTexture name="CamLOOP0008" x="4395" y="5271" width="2209" height="1547" frameX="0" frameY="0" frameWidth="2220" frameHeight="1547"/>
+	<SubTexture name="CamLOOP0009" x="4395" y="5271" width="2209" height="1547" frameX="0" frameY="0" frameWidth="2220" frameHeight="1547"/>
+	<SubTexture name="CamLOOP0012" x="2803" y="3714" width="2145" height="1547" frameX="-62" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0013" x="2803" y="3714" width="2145" height="1547" frameX="-62" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0014" x="4958" y="3714" width="2209" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0015" x="4958" y="3714" width="2209" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0016" x="10" y="5271" width="2220" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0017" x="10" y="5271" width="2220" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0018" x="2803" y="3714" width="2145" height="1547" frameX="-62" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0019" x="2803" y="3714" width="2145" height="1547" frameX="-62" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0020" x="4958" y="3714" width="2209" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0021" x="4958" y="3714" width="2209" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0022" x="10" y="5271" width="2220" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+	<SubTexture name="CamLOOP0023" x="10" y="5271" width="2220" height="1547" frameX="0" frameY="0" frameWidth="2875" frameHeight="1584"/>
+</TextureAtlas>

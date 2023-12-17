@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dee.png">
+<SubTexture name="i0000" x="468" y="299" width="212" height="253" frameX="-105" frameY="-82" frameWidth="380" frameHeight="357" />
+<SubTexture name="i0001" x="0" y="563" width="216" height="250" frameX="-103" frameY="-85" frameWidth="380" frameHeight="357" />
+<SubTexture name="i0002" x="0" y="299" width="205" height="264" frameX="-112" frameY="-72" frameWidth="380" frameHeight="357" />
+<SubTexture name="i0003" x="508" y="0" width="202" height="268" frameX="-115" frameY="-68" frameWidth="380" frameHeight="357" />
+<SubTexture name="l0000" x="834" y="0" width="227" height="246" frameX="-84" frameY="-76" frameWidth="380" frameHeight="357" />
+<SubTexture name="l0001" x="834" y="246" width="224" height="246" frameX="-89" frameY="-76" frameWidth="380" frameHeight="357" />
+<SubTexture name="d0000" x="300" y="813" width="155" height="214" frameX="-145" frameY="-110" frameWidth="380" frameHeight="357" />
+<SubTexture name="d0001" x="150" y="813" width="150" height="224" frameX="-148" frameY="-97" frameWidth="380" frameHeight="357" />
+<SubTexture name="u0000" x="0" y="0" width="166" height="299" frameX="-139" frameY="-19" frameWidth="380" frameHeight="357" />
+<SubTexture name="u0001" x="337" y="0" width="171" height="288" frameX="-137" frameY="-30" frameWidth="380" frameHeight="357" />
+<SubTexture name="r0000" x="710" y="0" width="124" height="252" frameX="-179" frameY="-70" frameWidth="380" frameHeight="357" />
+<SubTexture name="r0001" x="710" y="252" width="117" height="252" frameX="-178" frameY="-69" frameWidth="380" frameHeight="357" />
+<SubTexture name="nl0000" x="216" y="563" width="247" height="249" frameX="-110" frameY="-73" frameWidth="380" frameHeight="357" />
+<SubTexture name="nl0001" x="463" y="563" width="224" height="249" frameX="-89" frameY="-73" frameWidth="380" frameHeight="357" />
+<SubTexture name="md0000" x="687" y="563" width="139" height="248" frameX="-150" frameY="-80" frameWidth="380" frameHeight="357" />
+<SubTexture name="md0001" x="0" y="813" width="150" height="229" frameX="-148" frameY="-97" frameWidth="380" frameHeight="357" />
+<SubTexture name="mu0000" x="834" y="492" width="223" height="245" frameX="-119" frameY="-21" frameWidth="380" frameHeight="357" />
+<SubTexture name="mu0001" x="166" y="0" width="171" height="297" frameX="-137" frameY="-21" frameWidth="380" frameHeight="357" />
+<SubTexture name="mr0000" x="205" y="299" width="145" height="263" frameX="-151" frameY="-57" frameWidth="380" frameHeight="357" />
+<SubTexture name="mr0001" x="350" y="299" width="118" height="263" frameX="-178" frameY="-58" frameWidth="380" frameHeight="357" />
+<SubTexture name="die0000" x="455" y="813" width="196" height="169" frameX="-143" frameY="-181" frameWidth="380" frameHeight="357" />
+<SubTexture name="die0001" x="651" y="813" width="196" height="169" frameX="-143" frameY="-181" frameWidth="380" frameHeight="357" />
+<SubTexture name="die0002" x="847" y="813" width="196" height="169" frameX="-143" frameY="-181" frameWidth="380" frameHeight="357" />
+<SubTexture name="die0003" x="1061" y="0" width="196" height="169" frameX="-143" frameY="-181" frameWidth="380" frameHeight="357" />
+</TextureAtlas>

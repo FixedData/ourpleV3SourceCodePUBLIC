@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="heal.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="heal0000" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0001" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0002" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0003" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0004" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0005" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0006" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0007" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0008" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0009" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0010" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0011" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0012" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0013" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0014" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0015" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0016" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0017" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0018" x="5" y="5" width="168" height="146"/>
+	<SubTexture name="heal0019" x="178" y="5" width="168" height="146"/>
+	<SubTexture name="heal0020" x="178" y="5" width="168" height="146"/>
+	<SubTexture name="heal0021" x="178" y="5" width="168" height="146"/>
+	<SubTexture name="heal0022" x="5" y="156" width="168" height="146"/>
+	<SubTexture name="heal0023" x="5" y="156" width="168" height="146"/>
+	<SubTexture name="heal0024" x="5" y="156" width="168" height="146"/>
+	<SubTexture name="heal0025" x="178" y="156" width="168" height="146"/>
+	<SubTexture name="heal0026" x="178" y="156" width="168" height="146"/>
+	<SubTexture name="heal0027" x="178" y="156" width="168" height="146"/>
+	<SubTexture name="heal0028" x="5" y="307" width="168" height="146"/>
+	<SubTexture name="heal0029" x="5" y="307" width="168" height="146"/>
+	<SubTexture name="heal0030" x="5" y="307" width="168" height="146"/>
+	<SubTexture name="heal0031" x="178" y="307" width="168" height="146"/>
+	<SubTexture name="heal0032" x="178" y="307" width="168" height="146"/>
+	<SubTexture name="heal0033" x="178" y="307" width="168" height="146"/>
+	<SubTexture name="heal0034" x="178" y="307" width="168" height="146"/>
+	<SubTexture name="heal0035" x="178" y="307" width="168" height="146"/>
+	<SubTexture name="heal0036" x="178" y="307" width="168" height="146"/>
+	<SubTexture name="heal0037" x="178" y="307" width="168" height="146"/>
+	<SubTexture name="heal0038" x="178" y="307" width="168" height="146"/>
+	<SubTexture name="heal0039" x="178" y="307" width="168" height="146"/>
+	<SubTexture name="heal0040" x="178" y="307" width="168" height="146"/>
+</TextureAtlas>

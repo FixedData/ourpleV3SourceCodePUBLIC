@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="auth.png">
+<SubTexture name="auth i0000" x="0" y="443" width="313" height="149" frameX="-22" frameY="-83" frameWidth="595" frameHeight="223" />
+<SubTexture name="auth i0001" x="565" y="0" width="317" height="150" frameX="-17" frameY="-83" frameWidth="595" frameHeight="223" />
+<SubTexture name="auth i0002" x="565" y="150" width="316" height="150" frameX="-19" frameY="-83" frameWidth="595" frameHeight="223" />
+<SubTexture name="auth s0000" x="284" y="0" width="281" height="218" frameX="-52" frameY="-3" frameWidth="595" frameHeight="223" />
+<SubTexture name="auth s0001" x="0" y="0" width="284" height="226" frameX="-46" frameY="-1" frameWidth="595" frameHeight="223" />
+<SubTexture name="auth s0002" x="0" y="226" width="270" height="217" frameX="-56" frameY="-2" frameWidth="595" frameHeight="223" />
+</TextureAtlas>

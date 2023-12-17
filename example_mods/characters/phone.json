@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				119
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				201
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				144
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				19,
+				208
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "ringstart",
+			"indices": [],
+			"name": "ringstart"
+		},
+		{
+			"offsets": [
+				435,
+				672
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "ringloop",
+			"indices": [],
+			"name": "ringloop"
+		},
+		{
+			"offsets": [
+				84,
+				352
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "ringend",
+			"indices": [],
+			"name": "ringend"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/phone",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "prange",
+	"flip_x": false,
+	"healthbar_colors": [
+		144,
+		96,
+		0
+	],
+	"camera_position": [
+		40,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

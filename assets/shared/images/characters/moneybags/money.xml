@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="money.png">
+<SubTexture name="idle0000" x="300" y="435" width="153" height="187" frameX="-82" frameY="-74" frameWidth="301" frameHeight="261" />
+<SubTexture name="idle0001" x="151" y="435" width="149" height="189" frameX="-84" frameY="-72" frameWidth="301" frameHeight="261" />
+<SubTexture name="idle0002" x="0" y="435" width="151" height="196" frameX="-80" frameY="-65" frameWidth="301" frameHeight="261" />
+<SubTexture name="idle0003" x="454" y="199" width="151" height="197" frameX="-80" frameY="-64" frameWidth="301" frameHeight="261" />
+<SubTexture name="left0000" x="454" y="0" width="182" height="199" frameX="-58" frameY="-63" frameWidth="301" frameHeight="261" />
+<SubTexture name="left0001" x="180" y="225" width="166" height="202" frameX="-73" frameY="-60" frameWidth="301" frameHeight="261" />
+<SubTexture name="down0000" x="636" y="0" width="189" height="166" frameX="-71" frameY="-97" frameWidth="301" frameHeight="261" />
+<SubTexture name="down0001" x="453" y="435" width="182" height="170" frameX="-74" frameY="-92" frameWidth="301" frameHeight="261" />
+<SubTexture name="right0000" x="0" y="225" width="180" height="210" frameX="-103" frameY="-54" frameWidth="301" frameHeight="261" />
+<SubTexture name="right0001" x="271" y="0" width="183" height="211" frameX="-96" frameY="-52" frameWidth="301" frameHeight="261" />
+<SubTexture name="up0000" x="0" y="0" width="132" height="225" frameX="-90" frameY="-37" frameWidth="301" frameHeight="261" />
+<SubTexture name="up0001" x="132" y="0" width="139" height="219" frameX="-86" frameY="-43" frameWidth="301" frameHeight="261" />
+</TextureAtlas>

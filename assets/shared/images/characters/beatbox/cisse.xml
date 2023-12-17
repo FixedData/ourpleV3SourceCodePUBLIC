@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cisse.png">
+<SubTexture name="cisse idle0000" x="0" y="0" width="753" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse idle0001" x="753" y="0" width="759" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse idle0002" x="0" y="0" width="753" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse idle0003" x="753" y="0" width="759" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse idle0004" x="0" y="0" width="753" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse idle0005" x="753" y="0" width="759" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse idle0006" x="0" y="0" width="753" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse idle0007" x="753" y="0" width="759" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse idle0008" x="0" y="0" width="753" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse idle0009" x="753" y="0" width="759" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse down0000" x="716" y="2224" width="801" height="1088" frameX="0" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse down0001" x="1512" y="0" width="767" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse down0002" x="1512" y="0" width="767" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse up0000" x="0" y="1112" width="987" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse up0001" x="987" y="1112" width="1012" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse up0002" x="987" y="1112" width="1012" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse right0000" x="2279" y="0" width="866" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse right0001" x="2279" y="1112" width="837" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse right0002" x="2279" y="1112" width="837" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse left0000" x="3145" y="0" width="684" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse left0001" x="0" y="2224" width="716" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="cisse left0002" x="0" y="2224" width="716" height="1112" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

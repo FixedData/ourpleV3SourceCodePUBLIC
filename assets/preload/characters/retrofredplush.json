@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idl",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				0
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				0
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				1,
+				0
+			],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/watchful/retrofredPlush",
+	"position": [
+		-80,
+		550
+	],
+	"healthicon": "fredplushpixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		155,
+		7
+	],
+	"camera_position": [
+		-105,
+		90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

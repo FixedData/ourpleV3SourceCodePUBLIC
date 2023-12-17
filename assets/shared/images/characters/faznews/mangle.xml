@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mangle.png">
+<SubTexture name="mangle up0000" x="1371" y="0" width="757" height="848" frameX="-205" frameY="-49" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle up0001" x="637" y="0" width="734" height="870" frameX="-218" frameY="-28" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle up0002" x="0" y="0" width="637" height="894" frameX="-264" frameY="-1" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle right0000" x="1189" y="1687" width="576" height="751" frameX="-274" frameY="-138" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle right0001" x="0" y="1687" width="582" height="752" frameX="-279" frameY="-136" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle right0002" x="1765" y="1687" width="583" height="751" frameX="-294" frameY="-137" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle left0000" x="980" y="2439" width="501" height="727" frameX="-292" frameY="-160" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle left0001" x="1481" y="2439" width="501" height="726" frameX="-284" frameY="-162" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle left0002" x="498" y="2439" width="482" height="728" frameX="-294" frameY="-156" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle idle0000" x="2128" y="0" width="461" height="755" frameX="-304" frameY="-143" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle idle0001" x="2589" y="1502" width="479" height="747" frameX="-292" frameY="-151" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle idle0002" x="0" y="2439" width="498" height="739" frameX="-270" frameY="-159" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle down0000" x="3699" y="0" width="679" height="561" frameX="-239" frameY="-333" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle down0001" x="3699" y="561" width="654" height="559" frameX="-251" frameY="-339" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle down0002" x="3699" y="2238" width="533" height="532" frameX="-309" frameY="-366" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle downmiss0000" x="3699" y="1120" width="679" height="559" frameX="-239" frameY="-333" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle downmiss0001" x="3699" y="1679" width="654" height="559" frameX="-251" frameY="-339" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle downmiss0002" x="0" y="3178" width="533" height="532" frameX="-309" frameY="-366" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle upmiss0000" x="1252" y="894" width="629" height="780" frameX="-258" frameY="-112" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle upmiss0001" x="624" y="894" width="628" height="791" frameX="-259" frameY="-102" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle upmiss0002" x="0" y="894" width="624" height="793" frameX="-264" frameY="-95" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle leftmiss0000" x="1982" y="2439" width="501" height="723" frameX="-292" frameY="-160" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle leftmiss0001" x="3198" y="0" width="501" height="721" frameX="-284" frameY="-162" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle leftmiss0002" x="2483" y="2439" width="482" height="723" frameX="-294" frameY="-156" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle rightmiss0000" x="2589" y="0" width="609" height="751" frameX="-241" frameY="-138" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle rightmiss0001" x="582" y="1687" width="607" height="752" frameX="-254" frameY="-136" frameWidth="1127" frameHeight="878" />
+<SubTexture name="mangle rightmiss0002" x="2589" y="751" width="602" height="751" frameX="-275" frameY="-137" frameWidth="1127" frameHeight="878" />
+</TextureAtlas>

@@ -1,0 +1,130 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				-10
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "adown"
+		},
+		{
+			"offsets": [
+				13,
+				-8
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "aleft"
+		},
+		{
+			"offsets": [
+				11,
+				-1
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "aup"
+		},
+		{
+			"offsets": [
+				-5,
+				-8
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "aright"
+		},
+		{
+			"offsets": [
+				9,
+				10
+			],
+			"indices": [
+				9,
+				11,
+				13,
+				14,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 30,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "adanceLeft"
+		},
+		{
+			"offsets": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"indices": [
+				9,
+				11,
+				13,
+				14,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 30,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "adanceRight"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/spring",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "spring",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		155,
+		6
+	],
+	"camera_position": [
+		-130,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phantomourple.png">
+<SubTexture name="i0000" x="0" y="0" width="629" height="641" frameX="-26" frameY="-18" frameWidth="640" frameHeight="640" />
+<SubTexture name="i0001" x="629" y="0" width="628" height="634" frameX="-26" frameY="-18" frameWidth="640" frameHeight="640" />
+</TextureAtlas>

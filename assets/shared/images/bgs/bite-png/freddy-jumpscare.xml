@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freddy-jumpscare.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jumpscare-fred0000" x="5" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0001" x="5" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0002" x="810" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0003" x="810" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0004" x="1615" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0005" x="1615" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0006" x="2420" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0007" x="2420" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0008" x="3225" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0009" x="3225" y="5" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0010" x="5" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0011" x="5" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0012" x="810" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0013" x="810" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0014" x="1615" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0015" x="1615" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0016" x="2420" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0017" x="2420" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0018" x="3225" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0019" x="3225" y="460" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0020" x="5" y="915" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0021" x="5" y="915" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0022" x="810" y="915" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0023" x="810" y="915" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0024" x="1615" y="915" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0025" x="1615" y="915" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0026" x="2420" y="915" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0027" x="2420" y="915" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0028" x="3225" y="915" width="800" height="450"/>
+	<SubTexture name="jumpscare-fred0029" x="3225" y="915" width="800" height="450"/>
+</TextureAtlas>

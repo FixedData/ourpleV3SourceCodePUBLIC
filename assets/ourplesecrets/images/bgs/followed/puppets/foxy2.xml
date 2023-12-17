@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="foxy2.png">
+<SubTexture name="i0000" x="0" y="0" width="126" height="318" frameX="-12" frameY="-19" frameWidth="139" frameHeight="321" />
+<SubTexture name="i0001" x="126" y="0" width="106" height="318" frameX="-19" frameY="-19" frameWidth="139" frameHeight="321" />
+<SubTexture name="i0002" x="232" y="0" width="132" height="317" frameX="-9" frameY="-19" frameWidth="139" frameHeight="321" />
+</TextureAtlas>

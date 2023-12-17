@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SinnohIcon0000" x="0" y="0" width="156" height="156"/>
+	<SubTexture name="SinnohIcon0001" x="0" y="166" width="156" height="156"/>
+	<SubTexture name="LoseIcon0000" x="156" y="0" width="156" height="156"/>
+	<SubTexture name="LoseIcon0001" x="156" y="166" width="156" height="156"/>
+</TextureAtlas>

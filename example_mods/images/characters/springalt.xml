@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="springalt.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft0000" x="5" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0001" x="5" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0002" x="5" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0003" x="239" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0004" x="239" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0005" x="239" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0006" x="473" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0007" x="473" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0008" x="473" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0009" x="707" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0010" x="707" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0011" x="707" y="5" width="229" height="242"/>
+	<SubTexture name="danceLeft0012" x="5" y="252" width="229" height="242"/>
+	<SubTexture name="danceLeft0013" x="5" y="252" width="229" height="242"/>
+	<SubTexture name="danceLeft0014" x="5" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0000" x="239" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0001" x="239" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0002" x="239" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0003" x="473" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0004" x="473" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0005" x="473" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0006" x="707" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0007" x="707" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0008" x="707" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0009" x="707" y="5" width="229" height="242"/>
+	<SubTexture name="danceRight0010" x="707" y="5" width="229" height="242"/>
+	<SubTexture name="danceRight0011" x="707" y="5" width="229" height="242"/>
+	<SubTexture name="danceRight0012" x="5" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0013" x="5" y="252" width="229" height="242"/>
+	<SubTexture name="danceRight0014" x="5" y="252" width="229" height="242"/>
+	<SubTexture name="down0000" x="5" y="499" width="249" height="223"/>
+	<SubTexture name="down0001" x="5" y="499" width="249" height="223"/>
+	<SubTexture name="down0002" x="5" y="499" width="249" height="223"/>
+	<SubTexture name="down0003" x="259" y="499" width="249" height="223"/>
+	<SubTexture name="down0004" x="259" y="499" width="249" height="223"/>
+	<SubTexture name="down0005" x="259" y="499" width="249" height="223"/>
+	<SubTexture name="down0006" x="259" y="499" width="249" height="223"/>
+	<SubTexture name="left0000" x="513" y="499" width="249" height="223"/>
+	<SubTexture name="left0001" x="513" y="499" width="249" height="223"/>
+	<SubTexture name="left0002" x="513" y="499" width="249" height="223"/>
+	<SubTexture name="left0003" x="767" y="499" width="249" height="223"/>
+	<SubTexture name="left0004" x="767" y="499" width="249" height="223"/>
+	<SubTexture name="left0005" x="767" y="499" width="249" height="223"/>
+	<SubTexture name="left0006" x="767" y="499" width="249" height="223"/>
+	<SubTexture name="left0007" x="767" y="499" width="249" height="223"/>
+	<SubTexture name="right0000" x="5" y="727" width="249" height="223"/>
+	<SubTexture name="right0001" x="5" y="727" width="249" height="223"/>
+	<SubTexture name="right0002" x="5" y="727" width="249" height="223"/>
+	<SubTexture name="right0003" x="259" y="727" width="249" height="223"/>
+	<SubTexture name="right0004" x="259" y="727" width="249" height="223"/>
+	<SubTexture name="right0005" x="259" y="727" width="249" height="223"/>
+	<SubTexture name="right0006" x="259" y="727" width="249" height="223"/>
+	<SubTexture name="up0000" x="513" y="727" width="249" height="223"/>
+	<SubTexture name="up0001" x="513" y="727" width="249" height="223"/>
+	<SubTexture name="up0002" x="513" y="727" width="249" height="223"/>
+	<SubTexture name="up0003" x="767" y="727" width="249" height="223"/>
+	<SubTexture name="up0004" x="767" y="727" width="249" height="223"/>
+	<SubTexture name="up0005" x="767" y="727" width="249" height="223"/>
+	<SubTexture name="up0006" x="767" y="727" width="249" height="223"/>
+</TextureAtlas>

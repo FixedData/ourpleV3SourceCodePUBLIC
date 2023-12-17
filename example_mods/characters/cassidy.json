@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				74,
+				62
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				76,
+				61
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				72,
+				60
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				73,
+				61
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "danceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "danceRight"
+		},
+		{
+			"offsets": [
+				70,
+				60
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missleft"
+		},
+		{
+			"offsets": [
+				72,
+				19
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				72,
+				59
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup"
+		},
+		{
+			"offsets": [
+				42,
+				59
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				62,
+				59
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				62,
+				59
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				62,
+				59
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				220,
+				157
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "bye",
+			"loop": false,
+			"name": "bye"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cassidy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cassidy",
+	"flip_x": true,
+	"healthbar_colors": [
+		194,
+		0,
+		72
+	],
+	"camera_position": [
+		150,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

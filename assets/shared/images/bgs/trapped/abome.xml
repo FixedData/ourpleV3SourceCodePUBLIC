@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abome.png">
+<SubTexture name="i0000" x="1457" y="0" width="1465" height="1858" frameX="-205" frameY="-81" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="i0001" x="0" y="0" width="1457" height="1870" frameX="-206" frameY="-73" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

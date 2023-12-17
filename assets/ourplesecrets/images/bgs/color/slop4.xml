@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="slop4.png">
+<SubTexture name="yell0000" x="0" y="114" width="131" height="106" frameX="-17" frameY="-29" frameWidth="164" frameHeight="134" />
+<SubTexture name="yell0001" x="0" y="0" width="118" height="114" frameX="-33" frameY="-23" frameWidth="164" frameHeight="134" />
+<SubTexture name="yell0002" x="236" y="0" width="123" height="101" frameX="-25" frameY="-29" frameWidth="164" frameHeight="134" />
+<SubTexture name="yell0003" x="118" y="0" width="118" height="111" frameX="-33" frameY="-26" frameWidth="164" frameHeight="134" />
+</TextureAtlas>

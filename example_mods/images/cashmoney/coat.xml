@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="coat.png">
+<SubTexture name="coat0000" x="0" y="0" width="176" height="111" frameX="-20" frameY="-15" frameWidth="201" frameHeight="131" />
+<SubTexture name="coat0001" x="176" y="0" width="171" height="104" frameX="-17" frameY="-16" frameWidth="201" frameHeight="131" />
+<SubTexture name="coat0002" x="0" y="111" width="181" height="102" frameX="-15" frameY="-16" frameWidth="201" frameHeight="131" />
+</TextureAtlas>

@@ -1,0 +1,22 @@
+{
+	"subtitles": [
+		{
+			"sub": "Leave the demon to his demons.",
+			"firstStep": 432,
+			"finalStep": 448,
+			"color": "white"
+		},
+		{
+			"sub": "Come now, child.",
+			"firstStep": 1619,
+			"finalStep": 1639,
+			"color": "white"
+		},
+		{
+			"sub": "Sit with me for a while.",
+			"firstStep": 1649,
+			"finalStep": 1668,
+			"color": "white"
+		}
+	]
+}

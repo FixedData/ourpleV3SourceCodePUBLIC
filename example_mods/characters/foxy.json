@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				63,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "foxyLEFT"
+		},
+		{
+			"offsets": [
+				10,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "foxyUP"
+		},
+		{
+			"offsets": [
+				-29,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "foxyRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "jumpscare",
+			"indices": [],
+			"name": "foxyJUMPSCARE"
+		},
+		{
+			"offsets": [
+				-21,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "foxyDOWN"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "foxyIDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DJfoxy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		31,
+		65
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

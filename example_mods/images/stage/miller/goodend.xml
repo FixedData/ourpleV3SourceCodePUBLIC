@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goodend.png">
+<SubTexture name="10000" x="0" y="0" width="480" height="297" frameX="0" frameY="0" frameWidth="460" frameHeight="277" />
+<SubTexture name="20000" x="480" y="0" width="480" height="297" frameX="0" frameY="0" frameWidth="460" frameHeight="277" />
+<SubTexture name="30000" x="0" y="297" width="480" height="297" frameX="0" frameY="0" frameWidth="460" frameHeight="277" />
+<SubTexture name="40000" x="480" y="297" width="480" height="297" frameX="0" frameY="0" frameWidth="460" frameHeight="277" />
+<SubTexture name="50000" x="0" y="594" width="480" height="297" frameX="0" frameY="0" frameWidth="460" frameHeight="277" />
+</TextureAtlas>

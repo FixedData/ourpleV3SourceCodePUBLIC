@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CamPop.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="1088" y="1991" width="1031" height="240" frameX="-128" frameY="-482" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="idle0001" x="0" y="1991" width="1088" height="339" frameX="-100" frameY="-383" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="idle0002" x="1221" y="1440" width="1152" height="446" frameX="-68" frameY="-276" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="idle0003" x="0" y="1440" width="1221" height="551" frameX="-34" frameY="-171" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="idle0004" x="1284" y="724" width="1281" height="644" frameX="-1" frameY="-78" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="idle0005" x="0" y="724" width="1284" height="716" frameX="2" frameY="-6" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="idle0006" x="0" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="idle0007" x="1284" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="backidle0007" x="1088" y="1991" width="1031" height="240" frameX="-128" frameY="-482" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="backidle0006" x="0" y="1991" width="1088" height="339" frameX="-100" frameY="-383" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="backidle0005" x="1221" y="1440" width="1152" height="446" frameX="-68" frameY="-276" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="backidle0004" x="0" y="1440" width="1221" height="551" frameX="-34" frameY="-171" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="backidle0003" x="1284" y="724" width="1281" height="644" frameX="-1" frameY="-78" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="backidle0002" x="0" y="724" width="1284" height="716" frameX="2" frameY="-6" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="backidle0001" x="0" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="backidle0000" x="1284" y="0" width="1284" height="724" frameX="2" frameY="2" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

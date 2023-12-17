@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "mangle left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "mangle down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "mangle right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "mangle idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "mangle up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "mangle upmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "mangle leftmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "mangle downmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "mangle rightmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/faznews/mangle",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ma",
+	"flip_x": false,
+	"healthbar_colors": [
+		237,
+		143,
+		186
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

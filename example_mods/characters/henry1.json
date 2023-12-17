@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "dead",
+			"indices": [
+				8,
+				8
+			],
+			"name": "die"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "die",
+			"indices": [],
+			"name": "die"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/terminated/henry1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "termin",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		56,
+		56
+	],
+	"camera_position": [
+		-10,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

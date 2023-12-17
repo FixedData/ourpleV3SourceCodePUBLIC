@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="options.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pm_optionsidle0000" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsidle0001" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsidle0002" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsidle0003" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsidle0004" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsidle0005" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsidle0006" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0001" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0002" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0003" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0004" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0005" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0006" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0007" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0008" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0009" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0010" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0011" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0012" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0013" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0014" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0015" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0016" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0017" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0018" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0019" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0020" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0021" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0022" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0023" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0024" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0025" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0026" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0027" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0028" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0029" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0030" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0031" x="624" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0032" x="624" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0033" x="624" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0034" x="624" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_optionsc0035" x="624" y="1024" width="595" height="483"/>
+</TextureAtlas>

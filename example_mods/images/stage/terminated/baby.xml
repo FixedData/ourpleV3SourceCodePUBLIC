@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="baby.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bounce0000" x="5" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0001" x="5" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0002" x="464" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0003" x="464" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0004" x="464" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0005" x="923" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0006" x="923" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0007" x="923" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0008" x="1382" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0009" x="1382" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0010" x="1841" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0011" x="1841" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0012" x="1841" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0013" x="2300" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0014" x="2300" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0015" x="2300" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0016" x="2300" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0017" x="1841" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0018" x="1841" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0019" x="1841" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0020" x="2759" y="5" width="454" height="426"/>
+	<SubTexture name="bounce0021" x="2759" y="5" width="454" height="426"/>
+	<SubTexture name="slap0000" x="5" y="436" width="889" height="614"/>
+	<SubTexture name="slap0001" x="5" y="436" width="889" height="614"/>
+	<SubTexture name="slap0002" x="899" y="436" width="889" height="614"/>
+	<SubTexture name="slap0003" x="899" y="436" width="889" height="614"/>
+	<SubTexture name="slap0004" x="1793" y="436" width="889" height="614"/>
+	<SubTexture name="slap0005" x="2687" y="436" width="889" height="614"/>
+	<SubTexture name="slap0006" x="5" y="1055" width="889" height="614"/>
+	<SubTexture name="slap0007" x="5" y="1055" width="889" height="614"/>
+	<SubTexture name="slap0008" x="899" y="1055" width="889" height="614"/>
+	<SubTexture name="slap0009" x="899" y="1055" width="889" height="614"/>
+	<SubTexture name="slap0010" x="1793" y="1055" width="889" height="614"/>
+	<SubTexture name="slap0011" x="1793" y="1055" width="889" height="614"/>
+	<SubTexture name="slap0012" x="1793" y="1055" width="889" height="614"/>
+	<SubTexture name="slap0013" x="2687" y="1055" width="889" height="614"/>
+	<SubTexture name="slap0014" x="2687" y="1055" width="889" height="614"/>
+	<SubTexture name="slap0015" x="5" y="1674" width="889" height="614"/>
+	<SubTexture name="slap0016" x="5" y="1674" width="889" height="614"/>
+	<SubTexture name="slap0017" x="899" y="1674" width="889" height="614"/>
+	<SubTexture name="slap0018" x="899" y="1674" width="889" height="614"/>
+	<SubTexture name="slapready0000" x="1793" y="1674" width="539" height="490"/>
+	<SubTexture name="slapready0001" x="1793" y="1674" width="539" height="490"/>
+	<SubTexture name="slapready0002" x="1793" y="1674" width="539" height="490"/>
+	<SubTexture name="slapready0003" x="2337" y="1674" width="539" height="490"/>
+	<SubTexture name="slapready0004" x="2337" y="1674" width="539" height="490"/>
+	<SubTexture name="slapready0005" x="2337" y="1674" width="539" height="490"/>
+	<SubTexture name="slapready0006" x="2881" y="1674" width="539" height="490"/>
+	<SubTexture name="slapready0007" x="2881" y="1674" width="539" height="490"/>
+	<SubTexture name="slapready0008" x="3425" y="1674" width="539" height="490"/>
+	<SubTexture name="slapready0009" x="5" y="2293" width="539" height="490"/>
+	<SubTexture name="slapready0010" x="5" y="2293" width="539" height="490"/>
+	<SubTexture name="slapready0011" x="549" y="2293" width="539" height="490"/>
+	<SubTexture name="slapready0012" x="549" y="2293" width="539" height="490"/>
+	<SubTexture name="slapready0013" x="1093" y="2293" width="539" height="490"/>
+	<SubTexture name="slapready0014" x="1093" y="2293" width="539" height="490"/>
+	<SubTexture name="slapready0015" x="1637" y="2293" width="539" height="490"/>
+	<SubTexture name="slapready0016" x="1637" y="2293" width="539" height="490"/>
+</TextureAtlas>

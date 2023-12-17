@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="golderFred.png">
+<SubTexture name="idle0000" x="172" y="346" width="175" height="138" frameX="-83" frameY="-66" frameWidth="318" frameHeight="256" />
+<SubTexture name="right0000" x="0" y="498" width="177" height="133" frameX="-83" frameY="-71" frameWidth="318" frameHeight="256" />
+<SubTexture name="right0001" x="177" y="498" width="178" height="133" frameX="-81" frameY="-71" frameWidth="318" frameHeight="256" />
+<SubTexture name="down0000" x="675" y="0" width="192" height="113" frameX="-74" frameY="-92" frameWidth="318" frameHeight="256" />
+<SubTexture name="down0001" x="355" y="498" width="187" height="116" frameX="-77" frameY="-89" frameWidth="318" frameHeight="256" />
+<SubTexture name="left0000" x="501" y="0" width="174" height="137" frameX="-74" frameY="-67" frameWidth="318" frameHeight="256" />
+<SubTexture name="left0001" x="501" y="137" width="173" height="137" frameX="-77" frameY="-67" frameWidth="318" frameHeight="256" />
+<SubTexture name="up0000" x="164" y="182" width="168" height="155" frameX="-81" frameY="-48" frameWidth="318" frameHeight="256" />
+<SubTexture name="up0001" x="0" y="346" width="172" height="152" frameX="-79" frameY="-51" frameWidth="318" frameHeight="256" />
+<SubTexture name="scream0000" x="0" y="0" width="169" height="182" frameX="-83" frameY="-36" frameWidth="318" frameHeight="256" />
+<SubTexture name="scream0001" x="169" y="0" width="167" height="173" frameX="-81" frameY="-40" frameWidth="318" frameHeight="256" />
+<SubTexture name="scream0002" x="336" y="0" width="165" height="173" frameX="-81" frameY="-38" frameWidth="318" frameHeight="256" />
+<SubTexture name="scream0003" x="0" y="182" width="164" height="164" frameX="-80" frameY="-42" frameWidth="318" frameHeight="256" />
+</TextureAtlas>

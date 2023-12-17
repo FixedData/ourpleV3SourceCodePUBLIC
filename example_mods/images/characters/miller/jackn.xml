@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jackn.png">
+<SubTexture name="i0000" x="527" y="467" width="164" height="211" frameX="-22" frameY="-43" frameWidth="174" frameHeight="238" />
+<SubTexture name="i0001" x="780" y="0" width="164" height="209" frameX="-22" frameY="-45" frameWidth="174" frameHeight="238" />
+<SubTexture name="i0002" x="366" y="467" width="161" height="214" frameX="-24" frameY="-40" frameWidth="174" frameHeight="238" />
+<SubTexture name="i0003" x="0" y="467" width="160" height="215" frameX="-25" frameY="-39" frameWidth="174" frameHeight="238" />
+<SubTexture name="d0000" x="258" y="682" width="142" height="177" frameX="-131" frameY="-145" frameWidth="346" frameHeight="370" />
+<SubTexture name="d0001" x="122" y="682" width="136" height="188" frameX="-134" frameY="-134" frameWidth="346" frameHeight="370" />
+<SubTexture name="l0000" x="160" y="467" width="206" height="215" frameX="-66" frameY="-108" frameWidth="346" frameHeight="370" />
+<SubTexture name="l0001" x="202" y="246" width="202" height="219" frameX="-70" frameY="-104" frameWidth="346" frameHeight="370" />
+<SubTexture name="u0000" x="99" y="0" width="96" height="244" frameX="-163" frameY="-69" frameWidth="346" frameHeight="370" />
+<SubTexture name="u0001" x="195" y="0" width="99" height="239" frameX="-161" frameY="-74" frameWidth="346" frameHeight="370" />
+<SubTexture name="r0000" x="780" y="209" width="154" height="209" frameX="-152" frameY="-107" frameWidth="346" frameHeight="370" />
+<SubTexture name="r0001" x="629" y="217" width="151" height="210" frameX="-149" frameY="-106" frameWidth="346" frameHeight="370" />
+<SubTexture name="md0000" x="294" y="0" width="121" height="221" frameX="-137" frameY="-126" frameWidth="346" frameHeight="370" />
+<SubTexture name="md0001" x="780" y="418" width="136" height="195" frameX="-134" frameY="-127" frameWidth="346" frameHeight="370" />
+<SubTexture name="ml0000" x="415" y="0" width="214" height="221" frameX="-77" frameY="-102" frameWidth="346" frameHeight="370" />
+<SubTexture name="ml0001" x="0" y="246" width="202" height="221" frameX="-70" frameY="-102" frameWidth="346" frameHeight="370" />
+<SubTexture name="mu0000" x="0" y="682" width="122" height="195" frameX="-148" frameY="-69" frameWidth="346" frameHeight="370" />
+<SubTexture name="mu0001" x="0" y="0" width="99" height="246" frameX="-161" frameY="-67" frameWidth="346" frameHeight="370" />
+<SubTexture name="mr0000" x="404" y="246" width="157" height="217" frameX="-136" frameY="-99" frameWidth="346" frameHeight="370" />
+<SubTexture name="mr0001" x="629" y="0" width="151" height="217" frameX="-149" frameY="-99" frameWidth="346" frameHeight="370" />
+</TextureAtlas>

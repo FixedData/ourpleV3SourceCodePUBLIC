@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flashingend.png">
+<SubTexture name="10000" x="0" y="0" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="20000" x="476" y="0" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="20001" x="0" y="296" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="20002" x="476" y="296" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="20003" x="0" y="296" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="20004" x="0" y="592" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="30000" x="476" y="592" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="30001" x="952" y="0" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="30002" x="476" y="592" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="30003" x="952" y="296" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="30004" x="476" y="592" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="30005" x="952" y="592" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="40000" x="0" y="888" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="40001" x="476" y="888" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+<SubTexture name="40002" x="952" y="888" width="476" height="296" frameX="0" frameY="0" frameWidth="436" frameHeight="256" />
+</TextureAtlas>

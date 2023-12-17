@@ -1,0 +1,5 @@
+Sets Camera Bounce Speed
+
+
+Value 1: Speed (16 = every section, 8 = every 2 beats, 4 every beat, 1 every step)
+Value 2: Intensity Multiplier

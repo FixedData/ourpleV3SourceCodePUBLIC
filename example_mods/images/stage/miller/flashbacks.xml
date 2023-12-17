@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flashbacks.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="10000" x="5" y="5" width="911" height="551"/>
+	<SubTexture name="100000" x="921" y="5" width="911" height="551"/>
+	<SubTexture name="110000" x="1837" y="5" width="911" height="551"/>
+	<SubTexture name="120000" x="2753" y="5" width="911" height="551"/>
+	<SubTexture name="20000" x="5" y="561" width="911" height="551"/>
+	<SubTexture name="30000" x="921" y="561" width="911" height="551"/>
+	<SubTexture name="40000" x="1837" y="561" width="911" height="551"/>
+	<SubTexture name="50000" x="2753" y="561" width="911" height="551"/>
+	<SubTexture name="60000" x="5" y="1117" width="911" height="551"/>
+	<SubTexture name="70000" x="921" y="1117" width="911" height="551"/>
+	<SubTexture name="80000" x="1837" y="1117" width="911" height="551"/>
+	<SubTexture name="90000" x="2753" y="1117" width="911" height="551"/>
+</TextureAtlas>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-2.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="10Bar0000" x="0" y="0" width="351" height="77"/>
+	<SubTexture name="10Gauge0000" x="361" y="0" width="351" height="77"/>
+	<SubTexture name="11Bar0000" x="722" y="0" width="351" height="77"/>
+	<SubTexture name="11Gauge0000" x="1083" y="0" width="351" height="77"/>
+	<SubTexture name="12Bar0000" x="1444" y="0" width="351" height="77"/>
+	<SubTexture name="12Gauge0000" x="0" y="87" width="351" height="77"/>
+	<SubTexture name="13Bar0000" x="361" y="87" width="351" height="77"/>
+	<SubTexture name="13Gauge0000" x="722" y="87" width="351" height="77"/>
+	<SubTexture name="13Gauge0001" x="722" y="87" width="351" height="77"/>
+	<SubTexture name="13Gauge0002" x="722" y="87" width="351" height="77"/>
+	<SubTexture name="14Bar0000" x="1083" y="87" width="351" height="77"/>
+	<SubTexture name="14Gauge0000" x="1444" y="87" width="351" height="77"/>
+	<SubTexture name="15Bar0000" x="0" y="174" width="351" height="77"/>
+	<SubTexture name="15Gauge0000" x="361" y="174" width="351" height="77"/>
+	<SubTexture name="16Gauge0000" x="722" y="174" width="351" height="77"/>
+	<SubTexture name="17Gauge0000" x="1083" y="174" width="351" height="77"/>
+	<SubTexture name="18Gauge0000" x="1444" y="174" width="351" height="77"/>
+	<SubTexture name="19Gauge0000" x="0" y="261" width="351" height="77"/>
+	<SubTexture name="1Bar0000" x="361" y="261" width="351" height="77"/>
+	<SubTexture name="1Gauge0000" x="722" y="261" width="351" height="77"/>
+	<SubTexture name="2Bar0000" x="1083" y="261" width="351" height="77"/>
+	<SubTexture name="2Gauge0000" x="1444" y="261" width="351" height="77"/>
+	<SubTexture name="3Bar0000" x="0" y="348" width="351" height="77"/>
+	<SubTexture name="3Gauge0000" x="361" y="348" width="351" height="77"/>
+	<SubTexture name="4Bar0000" x="722" y="348" width="351" height="77"/>
+	<SubTexture name="4Gauge0000" x="1083" y="348" width="351" height="77"/>
+	<SubTexture name="5Bar0000" x="1444" y="348" width="351" height="77"/>
+	<SubTexture name="5Gauge0000" x="0" y="435" width="351" height="77"/>
+	<SubTexture name="6Bar0000" x="361" y="435" width="351" height="77"/>
+	<SubTexture name="6Gauge0000" x="722" y="435" width="351" height="77"/>
+	<SubTexture name="7Bar0000" x="1083" y="435" width="351" height="77"/>
+	<SubTexture name="7Gauge0000" x="1444" y="435" width="351" height="77"/>
+	<SubTexture name="8Bar0000" x="0" y="522" width="351" height="77"/>
+	<SubTexture name="8Gauge0000" x="361" y="522" width="351" height="77"/>
+	<SubTexture name="9Bar0000" x="722" y="522" width="351" height="77"/>
+	<SubTexture name="9Gauge0000" x="1083" y="522" width="351" height="77"/>
+</TextureAtlas>

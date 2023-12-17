@@ -1,0 +1,5 @@
+Changes Alpha
+
+Value 1: Object variable name/lua tag
+
+Value 2: value (can be negative to decrease)

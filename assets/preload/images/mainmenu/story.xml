@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="story.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mm_storyidle0000" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0001" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0002" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0003" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0004" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0005" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0006" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0007" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0008" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0009" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0010" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0011" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0012" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0013" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0014" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0015" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0016" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0017" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyidle0018" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyc0000" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyc0001" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyc0002" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyc0003" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyc0004" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_storyc0005" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0006" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0007" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0008" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0009" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0010" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0011" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0012" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0013" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0014" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_storyc0015" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_storyc0016" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_storyc0017" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_storyc0018" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_storyc0019" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_storyc0020" x="880" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_storyc0021" x="880" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_storyc0022" x="880" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_storyc0023" x="880" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_storyc0024" x="880" y="1024" width="851" height="483"/>
+</TextureAtlas>

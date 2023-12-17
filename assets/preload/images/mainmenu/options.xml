@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="options.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mm_optionsidle0000" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsidle0001" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsidle0002" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsidle0003" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsidle0004" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsidle0005" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsidle0006" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsidle0007" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsidle0008" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsidle0009" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0000" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0001" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0002" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0003" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0004" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0005" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0006" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0007" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0008" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0009" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0010" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0011" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0012" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0013" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0014" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0015" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0016" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0017" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0018" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0019" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0020" x="880" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0021" x="880" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0022" x="880" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0023" x="880" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0024" x="880" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0025" x="0" y="1536" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0026" x="0" y="1536" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0027" x="0" y="1536" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0028" x="0" y="1536" width="851" height="483"/>
+	<SubTexture name="mm_optionsc0029" x="0" y="1536" width="851" height="483"/>
+</TextureAtlas>

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "cancer",
+			"indices": [],
+			"name": "you are a cancer"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "l"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "d0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "u"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "r"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "orphan",
+			"fps": 12,
+			"name": "orphan",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "asbad",
+			"fps": 12,
+			"name": "you are just as bad as me",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "meaningless",
+			"fps": 12,
+			"name": "meaningless",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "coward",
+			"fps": 8,
+			"name": "god damn coward",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "false",
+			"loop": false,
+			"name": "false savior"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/miller/henryn",
+	"position": [
+		60,
+		30
+	],
+	"healthicon": "henmiller",
+	"flip_x": false,
+	"healthbar_colors": [
+		98,
+		81,
+		91
+	],
+	"camera_position": [
+		-550,
+		-720
+	],
+	"sing_duration": 6.1,
+	"scale": 5
+}

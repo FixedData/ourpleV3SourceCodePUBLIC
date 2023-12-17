@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire0000" x="5" y="5" width="590" height="233"/>
+	<SubTexture name="fire0001" x="5" y="5" width="590" height="233"/>
+	<SubTexture name="fire0002" x="600" y="5" width="590" height="233"/>
+	<SubTexture name="fire0003" x="600" y="5" width="590" height="233"/>
+	<SubTexture name="fire0004" x="1195" y="5" width="590" height="233"/>
+	<SubTexture name="fire0005" x="1195" y="5" width="590" height="233"/>
+	<SubTexture name="fire0006" x="5" y="243" width="590" height="233"/>
+	<SubTexture name="fire0007" x="5" y="243" width="590" height="233"/>
+	<SubTexture name="fire0008" x="600" y="243" width="590" height="233"/>
+	<SubTexture name="fire0009" x="600" y="243" width="590" height="233"/>
+	<SubTexture name="fire0010" x="1195" y="243" width="590" height="233"/>
+	<SubTexture name="fire0011" x="1195" y="243" width="590" height="233"/>
+	<SubTexture name="fire0012" x="5" y="481" width="590" height="233"/>
+	<SubTexture name="fire0013" x="5" y="481" width="590" height="233"/>
+	<SubTexture name="fire0014" x="600" y="481" width="590" height="233"/>
+	<SubTexture name="fire0015" x="600" y="481" width="590" height="233"/>
+	<SubTexture name="fire0016" x="1195" y="481" width="590" height="233"/>
+	<SubTexture name="fire0017" x="1195" y="481" width="590" height="233"/>
+	<SubTexture name="fire0018" x="5" y="719" width="590" height="233"/>
+	<SubTexture name="fire0019" x="5" y="719" width="590" height="233"/>
+	<SubTexture name="fire0020" x="600" y="719" width="590" height="233"/>
+	<SubTexture name="fire0021" x="600" y="719" width="590" height="233"/>
+	<SubTexture name="fire0022" x="1195" y="719" width="590" height="233"/>
+	<SubTexture name="fire0023" x="1195" y="719" width="590" height="233"/>
+	<SubTexture name="fire0024" x="5" y="957" width="590" height="233"/>
+	<SubTexture name="fire0025" x="5" y="957" width="590" height="233"/>
+	<SubTexture name="fire0026" x="600" y="957" width="590" height="233"/>
+	<SubTexture name="fire0027" x="600" y="957" width="590" height="233"/>
+	<SubTexture name="fire0028" x="1195" y="957" width="590" height="233"/>
+	<SubTexture name="fire0029" x="1195" y="957" width="590" height="233"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="finalbffollowed.png">
+<SubTexture name="i0000" x="430" y="738" width="431" height="346" frameX="-172" frameY="-262" frameWidth="748" frameHeight="578" />
+<SubTexture name="i0001" x="820" y="0" width="429" height="347" frameX="-173" frameY="-261" frameWidth="748" frameHeight="578" />
+<SubTexture name="i0002" x="820" y="347" width="428" height="347" frameX="-175" frameY="-261" frameWidth="748" frameHeight="578" />
+<SubTexture name="i0003" x="0" y="738" width="430" height="347" frameX="-174" frameY="-261" frameWidth="748" frameHeight="578" />
+<SubTexture name="d0000" x="0" y="1422" width="462" height="323" frameX="-155" frameY="-285" frameWidth="748" frameHeight="578" />
+<SubTexture name="d0001" x="1673" y="0" width="454" height="324" frameX="-159" frameY="-284" frameWidth="748" frameHeight="578" />
+<SubTexture name="l0000" x="424" y="1085" width="423" height="335" frameX="-149" frameY="-273" frameWidth="748" frameHeight="578" />
+<SubTexture name="l0001" x="1249" y="0" width="424" height="338" frameX="-152" frameY="-270" frameWidth="748" frameHeight="578" />
+<SubTexture name="u0000" x="0" y="0" width="407" height="376" frameX="-190" frameY="-232" frameWidth="748" frameHeight="578" />
+<SubTexture name="u0001" x="407" y="0" width="413" height="362" frameX="-187" frameY="-246" frameWidth="748" frameHeight="578" />
+<SubTexture name="r0000" x="847" y="1085" width="425" height="332" frameX="-217" frameY="-276" frameWidth="748" frameHeight="578" />
+<SubTexture name="r0001" x="1249" y="676" width="424" height="337" frameX="-212" frameY="-271" frameWidth="748" frameHeight="578" />
+<SubTexture name="md0000" x="1673" y="324" width="454" height="324" frameX="-159" frameY="-284" frameWidth="748" frameHeight="578" />
+<SubTexture name="ml0000" x="1249" y="338" width="424" height="338" frameX="-152" frameY="-270" frameWidth="748" frameHeight="578" />
+<SubTexture name="mu0000" x="0" y="376" width="413" height="362" frameX="-187" frameY="-246" frameWidth="748" frameHeight="578" />
+<SubTexture name="mr0000" x="0" y="1085" width="424" height="337" frameX="-212" frameY="-271" frameWidth="748" frameHeight="578" />
+</TextureAtlas>

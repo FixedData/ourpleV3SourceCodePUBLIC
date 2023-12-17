@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="idle.png">
+<SubTexture name="idle eyes0000" x="539" y="361" width="539" height="360" frameX="-8" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0001" x="1078" y="0" width="538" height="360" frameX="-7" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0002" x="0" y="722" width="539" height="360" frameX="-8" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0003" x="0" y="0" width="539" height="361" frameX="-7" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0004" x="539" y="722" width="539" height="360" frameX="-8" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0005" x="539" y="0" width="539" height="361" frameX="-7" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0006" x="1078" y="360" width="538" height="360" frameX="-7" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0007" x="0" y="1082" width="539" height="360" frameX="-8" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0008" x="0" y="361" width="539" height="361" frameX="-7" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0009" x="539" y="1082" width="539" height="360" frameX="-8" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0010" x="1078" y="722" width="538" height="360" frameX="-7" frameY="-3" frameWidth="542" frameHeight="359" />
+<SubTexture name="idle eyes0011" x="1616" y="0" width="539" height="360" frameX="-8" frameY="-3" frameWidth="542" frameHeight="359" />
+</TextureAtlas>

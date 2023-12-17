@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freeplay.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mm_freeplayidle0000" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayidle0001" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayidle0002" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayidle0003" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayidle0004" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayidle0005" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayidle0006" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayidle0007" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayidle0008" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayidle0009" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0001" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0002" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0003" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0004" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0005" x="880" y="0" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0006" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0007" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0008" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0009" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0010" x="0" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0011" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0012" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0013" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0014" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0015" x="880" y="512" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0016" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0017" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0018" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0019" x="0" y="1024" width="851" height="483"/>
+	<SubTexture name="mm_freeplayc0020" x="0" y="1024" width="851" height="483"/>
+</TextureAtlas>

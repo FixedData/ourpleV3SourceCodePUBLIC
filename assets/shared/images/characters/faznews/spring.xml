@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spring.png">
+<SubTexture name="spring up0000" x="1747" y="0" width="861" height="884" frameX="-112" frameY="-14" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring up0001" x="0" y="0" width="864" height="898" frameX="-111" frameY="0" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring up0002" x="864" y="0" width="883" height="898" frameX="-93" frameY="0" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring right0000" x="691" y="1750" width="687" height="836" frameX="-336" frameY="-62" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring right0001" x="1348" y="898" width="676" height="843" frameX="-347" frameY="-55" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring right0002" x="0" y="898" width="663" height="852" frameX="-358" frameY="-46" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring left0000" x="3300" y="770" width="691" height="762" frameX="-94" frameY="-136" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring left0001" x="3300" y="0" width="694" height="770" frameX="-85" frameY="-128" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring left0002" x="2608" y="0" width="692" height="796" frameX="-77" frameY="-102" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring IDLE0000" x="663" y="898" width="685" height="851" frameX="-200" frameY="-47" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring IDLE0001" x="0" y="1750" width="691" height="842" frameX="-192" frameY="-56" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring IDLE0002" x="1378" y="1750" width="690" height="824" frameX="-195" frameY="-74" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring down0000" x="3300" y="1532" width="620" height="641" frameX="-290" frameY="-257" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring down0001" x="2608" y="796" width="621" height="632" frameX="-291" frameY="-266" frameWidth="1127" frameHeight="878" />
+<SubTexture name="spring down0002" x="2608" y="1428" width="628" height="591" frameX="-280" frameY="-307" frameWidth="1127" frameHeight="878" />
+</TextureAtlas>

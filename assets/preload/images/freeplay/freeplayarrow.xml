@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freeplayarrow.png">
+<SubTexture name="normal0000" x="0" y="0" width="89" height="84" frameX="0" frameY="0" frameWidth="89" frameHeight="84" />
+<SubTexture name="normal0001" x="89" y="0" width="89" height="84" frameX="0" frameY="0" frameWidth="89" frameHeight="84" />
+<SubTexture name="normal0002" x="0" y="84" width="89" height="84" frameX="0" frameY="0" frameWidth="89" frameHeight="84" />
+<SubTexture name="press0000" x="89" y="84" width="89" height="84" frameX="0" frameY="0" frameWidth="89" frameHeight="84" />
+<SubTexture name="press0001" x="0" y="168" width="89" height="84" frameX="0" frameY="0" frameWidth="89" frameHeight="84" />
+</TextureAtlas>

@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				132,
+				49
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				132,
+				49
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				132,
+				49
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				132,
+				49
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup"
+		},
+		{
+			"offsets": [
+				62,
+				29
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "die"
+		},
+		{
+			"offsets": [
+				62,
+				29
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				62,
+				29
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "retry"
+		},
+		{
+			"offsets": [
+				36,
+				56
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "trans",
+			"indices": [],
+			"name": "trans"
+		},
+		{
+			"offsets": [
+				132,
+				49
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				132,
+				49
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				132,
+				49
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				132,
+				49
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missleft"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ourplebf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ourplebf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		-140,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

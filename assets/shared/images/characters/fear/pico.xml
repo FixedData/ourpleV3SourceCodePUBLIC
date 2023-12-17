@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pico.png">
+<SubTexture name="pico idle0000" x="1560" y="1087" width="440" height="683" frameX="-2096" frameY="-865" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico idle0001" x="2254" y="0" width="442" height="682" frameX="-2092" frameY="-871" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico idle0002" x="1560" y="1087" width="440" height="683" frameX="-2096" frameY="-865" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico idle0003" x="2254" y="0" width="442" height="682" frameX="-2092" frameY="-871" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico idle0004" x="1560" y="1087" width="440" height="683" frameX="-2096" frameY="-865" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico idle0005" x="2254" y="0" width="442" height="682" frameX="-2092" frameY="-871" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico idle0006" x="1560" y="1087" width="440" height="683" frameX="-2096" frameY="-865" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico idle0007" x="2254" y="0" width="442" height="682" frameX="-2092" frameY="-871" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico left0000" x="1565" y="0" width="689" height="750" frameX="-2138" frameY="-798" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico left0001" x="0" y="1087" width="649" height="702" frameX="-2144" frameY="-850" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico right0000" x="649" y="1087" width="911" height="686" frameX="-1536" frameY="-864" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico right0001" x="0" y="1789" width="850" height="681" frameX="-1595" frameY="-873" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico up0000" x="0" y="0" width="775" height="1087" frameX="-2000" frameY="-466" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico up0001" x="775" y="0" width="790" height="1073" frameX="-1978" frameY="-494" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico down0000" x="2254" y="888" width="428" height="165" frameX="-2035" frameY="-1423" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="pico down0001" x="2254" y="682" width="378" height="206" frameX="-2052" frameY="-1386" frameWidth="2847" frameHeight="1653" />
+</TextureAtlas>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cutscene.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cutscene0000" x="5" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0001" x="5" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0002" x="5" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0003" x="5" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0004" x="732" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0005" x="732" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0006" x="732" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0007" x="732" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0008" x="1459" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0009" x="1459" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0010" x="1459" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0011" x="1459" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0012" x="2186" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0013" x="2186" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0014" x="2186" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0015" x="2186" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0016" x="2913" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0017" x="2913" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0018" x="2913" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0019" x="2913" y="5" width="722" height="405"/>
+	<SubTexture name="cutscene0020" x="5" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0021" x="5" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0022" x="5" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0023" x="5" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0024" x="732" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0025" x="732" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0026" x="732" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0027" x="732" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0028" x="1459" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0029" x="1459" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0030" x="1459" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0031" x="1459" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0032" x="2186" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0033" x="2186" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0034" x="2186" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0035" x="2186" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0036" x="2913" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0037" x="2913" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0038" x="2913" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0039" x="2913" y="415" width="722" height="405"/>
+	<SubTexture name="cutscene0040" x="5" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0041" x="5" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0042" x="5" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0043" x="5" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0044" x="732" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0045" x="732" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0046" x="732" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0047" x="732" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0048" x="1459" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0049" x="1459" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0050" x="1459" y="825" width="722" height="405"/>
+	<SubTexture name="cutscene0051" x="1459" y="825" width="722" height="405"/>
+</TextureAtlas>

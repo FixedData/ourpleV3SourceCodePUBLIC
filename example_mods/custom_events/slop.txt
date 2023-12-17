@@ -1,0 +1,4 @@
+moves X position of an object
+
+Value 1: object name/lua tag
+Value 2: X offset

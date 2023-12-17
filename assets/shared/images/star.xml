@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="star.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="star0000" x="5" y="5" width="150" height="142"/>
+	<SubTexture name="star0001" x="5" y="5" width="150" height="142"/>
+	<SubTexture name="star0002" x="5" y="5" width="150" height="142"/>
+	<SubTexture name="star0003" x="160" y="5" width="150" height="142"/>
+	<SubTexture name="star0004" x="160" y="5" width="150" height="142"/>
+	<SubTexture name="star0005" x="160" y="5" width="150" height="142"/>
+	<SubTexture name="star0006" x="315" y="5" width="150" height="142"/>
+	<SubTexture name="star0007" x="315" y="5" width="150" height="142"/>
+	<SubTexture name="star0008" x="315" y="5" width="150" height="142"/>
+	<SubTexture name="star0009" x="5" y="152" width="150" height="142"/>
+	<SubTexture name="star0010" x="5" y="152" width="150" height="142"/>
+	<SubTexture name="star0011" x="5" y="152" width="150" height="142"/>
+	<SubTexture name="star0012" x="160" y="152" width="150" height="142"/>
+	<SubTexture name="star0013" x="160" y="152" width="150" height="142"/>
+	<SubTexture name="star0014" x="160" y="152" width="150" height="142"/>
+	<SubTexture name="star0015" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0016" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0017" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0018" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0019" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0020" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0021" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0022" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0023" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0024" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0025" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0026" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0027" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0028" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0029" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0030" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0031" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0032" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0033" x="315" y="152" width="150" height="142"/>
+	<SubTexture name="star0034" x="315" y="152" width="150" height="142"/>
+</TextureAtlas>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="foxy-run.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="run-foxy0000" x="5" y="5" width="498" height="220"/>
+	<SubTexture name="run-foxy0001" x="5" y="5" width="498" height="220"/>
+	<SubTexture name="run-foxy0002" x="508" y="5" width="498" height="220"/>
+	<SubTexture name="run-foxy0003" x="508" y="5" width="498" height="220"/>
+	<SubTexture name="run-foxy0004" x="1011" y="5" width="498" height="220"/>
+	<SubTexture name="run-foxy0005" x="1011" y="5" width="498" height="220"/>
+	<SubTexture name="run-foxy0006" x="1514" y="5" width="498" height="220"/>
+	<SubTexture name="run-foxy0007" x="1514" y="5" width="498" height="220"/>
+	<SubTexture name="run-foxy0008" x="5" y="230" width="498" height="220"/>
+	<SubTexture name="run-foxy0009" x="5" y="230" width="498" height="220"/>
+	<SubTexture name="run-foxy0010" x="508" y="230" width="498" height="220"/>
+	<SubTexture name="run-foxy0011" x="508" y="230" width="498" height="220"/>
+	<SubTexture name="run-foxy0012" x="1011" y="230" width="498" height="220"/>
+	<SubTexture name="run-foxy0013" x="1011" y="230" width="498" height="220"/>
+	<SubTexture name="run-foxy0014" x="1514" y="230" width="498" height="220"/>
+	<SubTexture name="run-foxy0015" x="1514" y="230" width="498" height="220"/>
+	<SubTexture name="run-foxy0016" x="5" y="455" width="498" height="220"/>
+	<SubTexture name="run-foxy0017" x="5" y="455" width="498" height="220"/>
+	<SubTexture name="run-foxy0018" x="508" y="455" width="498" height="220"/>
+	<SubTexture name="run-foxy0019" x="508" y="455" width="498" height="220"/>
+	<SubTexture name="run-foxy0020" x="1011" y="455" width="498" height="220"/>
+	<SubTexture name="run-foxy0021" x="1011" y="455" width="498" height="220"/>
+	<SubTexture name="run-foxy0022" x="1514" y="455" width="498" height="220"/>
+	<SubTexture name="run-foxy0023" x="1514" y="455" width="498" height="220"/>
+	<SubTexture name="run-foxy0024" x="5" y="680" width="498" height="220"/>
+	<SubTexture name="run-foxy0025" x="5" y="680" width="498" height="220"/>
+	<SubTexture name="run-foxy0026" x="508" y="680" width="498" height="220"/>
+	<SubTexture name="run-foxy0027" x="508" y="680" width="498" height="220"/>
+	<SubTexture name="run-foxy0028" x="1011" y="680" width="498" height="220"/>
+	<SubTexture name="run-foxy0029" x="1011" y="680" width="498" height="220"/>
+	<SubTexture name="run-foxy0030" x="1514" y="680" width="498" height="220"/>
+	<SubTexture name="run-foxy0031" x="1514" y="680" width="498" height="220"/>
+	<SubTexture name="run-foxy0032" x="5" y="905" width="498" height="220"/>
+	<SubTexture name="run-foxy0033" x="5" y="905" width="498" height="220"/>
+	<SubTexture name="run-foxy0034" x="508" y="905" width="498" height="220"/>
+	<SubTexture name="run-foxy0035" x="508" y="905" width="498" height="220"/>
+</TextureAtlas>

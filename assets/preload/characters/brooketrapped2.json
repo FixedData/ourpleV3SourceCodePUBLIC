@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-62
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				38
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				49
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				19
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-32
+			],
+			"anim": "firstDeath",
+			"fps": 16,
+			"name": "die",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-369
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "comeback",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				86,
+				-369
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "loopass",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				-280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "perc",
+			"loop": true,
+			"name": "erm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trapped/broketrapped2new",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "brooke",
+	"flip_x": true,
+	"healthbar_colors": [
+		48,
+		175,
+		209
+	],
+	"camera_position": [
+		180,
+		160
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="exit.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pm_exitidle0000" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitidle0001" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitidle0002" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitidle0003" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitidle0004" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitidle0005" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitidle0006" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0000" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0001" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0002" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0003" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0004" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0005" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0006" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0007" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0008" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0009" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_exitc0010" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_exitc0011" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_exitc0012" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_exitc0013" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_exitc0014" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_exitc0015" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_exitc0016" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_exitc0017" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_exitc0018" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_exitc0019" x="624" y="512" width="595" height="483"/>
+</TextureAtlas>

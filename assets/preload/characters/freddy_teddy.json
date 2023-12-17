@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				16,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-3,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				19,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-70,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chef/freddy_teddy",
+	"position": [
+		-200,
+		-500
+	],
+	"healthicon": "teddy",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		50,
+		31
+	],
+	"camera_position": [
+		200,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

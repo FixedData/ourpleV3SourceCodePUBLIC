@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				341,
+				269
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"offsets": [
+				354,
+				255
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "l"
+		},
+		{
+			"offsets": [
+				360,
+				261
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "u"
+		},
+		{
+			"offsets": [
+				340,
+				261
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "d"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				360,
+				261
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "mu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				354,
+				255
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "ml",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				341,
+				269
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "mr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				261
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "md",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/miller/jackn",
+	"position": [
+		60,
+		150
+	],
+	"healthicon": "davejack",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		123,
+		47
+	],
+	"camera_position": [
+		680,
+		80
+	],
+	"sing_duration": 6.7,
+	"scale": 4
+}

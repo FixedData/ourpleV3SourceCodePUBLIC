@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="restart.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pm_restartidle0000" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartidle0001" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartidle0002" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartidle0003" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartidle0004" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartidle0005" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartidle0006" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0001" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0002" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0003" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0004" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0005" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0006" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0007" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0008" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0009" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0010" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_restartc0011" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0012" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0013" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0014" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0015" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0016" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0017" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0018" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0019" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0020" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0021" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0022" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0023" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0024" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0025" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_restartc0026" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_restartc0027" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_restartc0028" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_restartc0029" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_restartc0030" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_restartc0031" x="624" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_restartc0032" x="624" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_restartc0033" x="624" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_restartc0034" x="624" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_restartc0035" x="624" y="1024" width="595" height="483"/>
+</TextureAtlas>

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-6
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-285,
+				-48
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 30,
+			"name": "rightmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-32
+			],
+			"anim": "singLEFTmiss",
+			"fps": 30,
+			"name": "leftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-223,
+				-269
+			],
+			"anim": "singDOWNmiss",
+			"fps": 30,
+			"name": "downmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-215,
+				6
+			],
+			"anim": "singUPmiss",
+			"fps": 30,
+			"name": "upmiss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-55,
+				-258
+			],
+			"anim": "die",
+			"fps": 30,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dee_Assets",
+	"position": [
+		110,
+		130
+	],
+	"healthicon": "duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		123,
+		47
+	],
+	"camera_position": [
+		320,
+		140
+	],
+	"sing_duration": 6.7,
+	"scale": 1.8
+}

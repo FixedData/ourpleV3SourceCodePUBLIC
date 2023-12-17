@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="daven.png">
+<SubTexture name="i0000" x="188" y="517" width="195" height="222" frameX="-74" frameY="-117" frameWidth="327" frameHeight="371" />
+<SubTexture name="i0001" x="0" y="744" width="197" height="213" frameX="-73" frameY="-126" frameWidth="327" frameHeight="371" />
+<SubTexture name="i0002" x="0" y="517" width="188" height="227" frameX="-81" frameY="-112" frameWidth="327" frameHeight="371" />
+<SubTexture name="i0003" x="618" y="0" width="185" height="229" frameX="-82" frameY="-110" frameWidth="327" frameHeight="371" />
+<SubTexture name="d0000" x="701" y="957" width="168" height="189" frameX="-89" frameY="-155" frameWidth="327" frameHeight="371" />
+<SubTexture name="d0001" x="371" y="957" width="165" height="193" frameX="-91" frameY="-151" frameWidth="327" frameHeight="371" />
+<SubTexture name="l0000" x="803" y="436" width="166" height="214" frameX="-54" frameY="-124" frameWidth="327" frameHeight="371" />
+<SubTexture name="l0001" x="803" y="219" width="163" height="217" frameX="-58" frameY="-121" frameWidth="327" frameHeight="371" />
+<SubTexture name="u0000" x="0" y="0" width="131" height="277" frameX="-115" frameY="-63" frameWidth="327" frameHeight="371" />
+<SubTexture name="u0001" x="268" y="0" width="137" height="267" frameX="-111" frameY="-73" frameWidth="327" frameHeight="371" />
+<SubTexture name="r0000" x="803" y="0" width="176" height="219" frameX="-106" frameY="-134" frameWidth="327" frameHeight="371" />
+<SubTexture name="r0001" x="618" y="229" width="177" height="223" frameX="-102" frameY="-130" frameWidth="327" frameHeight="371" />
+<SubTexture name="md0000" x="0" y="277" width="144" height="240" frameX="-101" frameY="-148" frameWidth="327" frameHeight="371" />
+<SubTexture name="md0001" x="522" y="744" width="165" height="196" frameX="-91" frameY="-148" frameWidth="327" frameHeight="371" />
+<SubTexture name="ml0000" x="383" y="517" width="185" height="222" frameX="-71" frameY="-116" frameWidth="327" frameHeight="371" />
+<SubTexture name="ml0001" x="568" y="517" width="163" height="222" frameX="-58" frameY="-116" frameWidth="327" frameHeight="371" />
+<SubTexture name="mu0000" x="197" y="744" width="182" height="212" frameX="-86" frameY="-71" frameWidth="327" frameHeight="371" />
+<SubTexture name="mu0001" x="131" y="0" width="137" height="273" frameX="-111" frameY="-67" frameWidth="327" frameHeight="371" />
+<SubTexture name="mr0000" x="253" y="277" width="180" height="236" frameX="-72" frameY="-115" frameWidth="327" frameHeight="371" />
+<SubTexture name="mr0001" x="433" y="277" width="177" height="236" frameX="-102" frameY="-117" frameWidth="327" frameHeight="371" />
+<SubTexture name="ai0000" x="1034" y="957" width="170" height="187" frameX="-76" frameY="-147" frameWidth="327" frameHeight="371" />
+<SubTexture name="ai0001" x="1299" y="0" width="175" height="185" frameX="-72" frameY="-149" frameWidth="327" frameHeight="371" />
+<SubTexture name="ai0002" x="536" y="957" width="165" height="190" frameX="-80" frameY="-144" frameWidth="327" frameHeight="371" />
+<SubTexture name="ai0003" x="1135" y="388" width="163" height="192" frameX="-82" frameY="-142" frameWidth="327" frameHeight="371" />
+<SubTexture name="ad0000" x="537" y="1152" width="186" height="144" frameX="-78" frameY="-192" frameWidth="327" frameHeight="371" />
+<SubTexture name="ad0001" x="357" y="1152" width="180" height="149" frameX="-82" frameY="-187" frameWidth="327" frameHeight="371" />
+<SubTexture name="al0000" x="0" y="1152" width="177" height="185" frameX="-66" frameY="-149" frameWidth="327" frameHeight="371" />
+<SubTexture name="al0001" x="869" y="957" width="165" height="188" frameX="-79" frameY="-146" frameWidth="327" frameHeight="371" />
+<SubTexture name="au0000" x="405" y="0" width="104" height="252" frameX="-134" frameY="-78" frameWidth="327" frameHeight="371" />
+<SubTexture name="au0001" x="509" y="0" width="109" height="243" frameX="-130" frameY="-87" frameWidth="327" frameHeight="371" />
+<SubTexture name="ar0000" x="1135" y="0" width="164" height="195" frameX="-123" frameY="-132" frameWidth="327" frameHeight="371" />
+<SubTexture name="ar0001" x="1135" y="195" width="156" height="193" frameX="-123" frameY="-134" frameWidth="327" frameHeight="371" />
+<SubTexture name="mad0000" x="1299" y="185" width="152" height="179" frameX="-98" frameY="-182" frameWidth="327" frameHeight="371" />
+<SubTexture name="mad0001" x="177" y="1152" width="180" height="155" frameX="-82" frameY="-181" frameWidth="327" frameHeight="371" />
+<SubTexture name="mal0000" x="0" y="957" width="206" height="195" frameX="-80" frameY="-137" frameWidth="327" frameHeight="371" />
+<SubTexture name="mal0001" x="206" y="957" width="165" height="195" frameX="-79" frameY="-139" frameWidth="327" frameHeight="371" />
+<SubTexture name="mau0000" x="379" y="744" width="143" height="206" frameX="-113" frameY="-93" frameWidth="327" frameHeight="371" />
+<SubTexture name="mau0001" x="144" y="277" width="109" height="240" frameX="-130" frameY="-90" frameWidth="327" frameHeight="371" />
+<SubTexture name="mar0000" x="687" y="744" width="165" height="196" frameX="-108" frameY="-131" frameWidth="327" frameHeight="371" />
+<SubTexture name="mar0001" x="979" y="0" width="156" height="196" frameX="-123" frameY="-131" frameWidth="327" frameHeight="371" />
+<SubTexture name="die0000" x="723" y="1152" width="234" height="112" frameX="-71" frameY="-247" frameWidth="327" frameHeight="371" />
+</TextureAtlas>

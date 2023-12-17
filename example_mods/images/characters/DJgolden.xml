@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DJgolden.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfDOWN0000" x="10" y="10" width="1108" height="938" frameX="0" frameY="-26" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0001" x="10" y="10" width="1108" height="938" frameX="0" frameY="-26" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0002" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0003" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0004" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0005" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0006" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0007" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0008" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0009" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0010" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0011" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0012" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0013" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfDOWN0014" x="1128" y="10" width="1075" height="964" frameX="-16" frameY="0" frameWidth="1108" frameHeight="964"/>
+	<SubTexture name="gfIDLE0000" x="2213" y="10" width="1031" height="1018"/>
+	<SubTexture name="gfIDLE0001" x="2213" y="10" width="1031" height="1018"/>
+	<SubTexture name="gfIDLE0002" x="10" y="1038" width="1031" height="1018"/>
+	<SubTexture name="gfIDLE0003" x="10" y="1038" width="1031" height="1018"/>
+	<SubTexture name="gfLEFT0000" x="1051" y="1038" width="1033" height="1038" frameX="0" frameY="0" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0001" x="1051" y="1038" width="1033" height="1038" frameX="0" frameY="0" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0002" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0003" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0004" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0005" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0006" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0007" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0008" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0009" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0010" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0011" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0012" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0013" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0014" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0015" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0016" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0017" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0018" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfLEFT0019" x="2094" y="1038" width="1033" height="1034" frameX="-3" frameY="-4" frameWidth="1036" frameHeight="1038"/>
+	<SubTexture name="gfRIGHT0000" x="10" y="2086" width="1031" height="1031" frameX="-4" frameY="0" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0001" x="10" y="2086" width="1031" height="1031" frameX="-4" frameY="0" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0002" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0003" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0004" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0005" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0006" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0007" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0008" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0009" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0010" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0011" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0012" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0013" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0014" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0015" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0016" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0017" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0018" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0019" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfRIGHT0020" x="1051" y="2086" width="1031" height="1028" frameX="0" frameY="-3" frameWidth="1035" frameHeight="1031"/>
+	<SubTexture name="gfUP0000" x="2092" y="2086" width="972" height="1072" frameX="-14" frameY="0" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0001" x="2092" y="2086" width="972" height="1072" frameX="-14" frameY="0" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0002" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0003" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0004" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0005" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0006" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0007" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0008" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0009" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0010" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0011" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0012" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0013" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0014" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0015" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0016" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0017" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+	<SubTexture name="gfUP0018" x="3074" y="2086" width="999" height="1047" frameX="0" frameY="-25" frameWidth="999" frameHeight="1072"/>
+</TextureAtlas>

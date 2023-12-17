@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="slop2.png">
+<SubTexture name="yell0000" x="801" y="0" width="170" height="143" frameX="-29" frameY="-18" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0001" x="0" y="530" width="164" height="147" frameX="-33" frameY="-16" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0002" x="97" y="189" width="153" height="173" frameX="-43" frameY="-38" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0003" x="0" y="364" width="132" height="166" frameX="-49" frameY="-47" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0004" x="398" y="364" width="97" height="164" frameX="-64" frameY="-48" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0005" x="667" y="0" width="134" height="159" frameX="-52" frameY="-54" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0006" x="801" y="143" width="170" height="143" frameX="-29" frameY="-18" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0007" x="164" y="530" width="164" height="147" frameX="-33" frameY="-16" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0008" x="250" y="189" width="153" height="173" frameX="-43" frameY="-38" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0009" x="132" y="364" width="132" height="166" frameX="-49" frameY="-47" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0010" x="570" y="0" width="97" height="164" frameX="-64" frameY="-48" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0011" x="667" y="159" width="134" height="159" frameX="-52" frameY="-54" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0012" x="801" y="286" width="170" height="143" frameX="-29" frameY="-18" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0013" x="328" y="530" width="164" height="147" frameX="-33" frameY="-16" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0014" x="0" y="0" width="153" height="189" frameX="-43" frameY="-22" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0015" x="153" y="0" width="132" height="182" frameX="-49" frameY="-31" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0016" x="0" y="189" width="97" height="175" frameX="-64" frameY="-37" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0017" x="264" y="364" width="134" height="165" frameX="-52" frameY="-48" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0018" x="801" y="429" width="170" height="143" frameX="-29" frameY="-18" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0019" x="492" y="530" width="164" height="147" frameX="-33" frameY="-16" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0020" x="285" y="0" width="153" height="177" frameX="-43" frameY="-34" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0021" x="438" y="0" width="132" height="171" frameX="-49" frameY="-42" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0022" x="438" y="171" width="97" height="169" frameX="-64" frameY="-43" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0023" x="667" y="318" width="134" height="159" frameX="-52" frameY="-54" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0024" x="801" y="429" width="170" height="143" frameX="-29" frameY="-18" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0025" x="492" y="530" width="164" height="147" frameX="-33" frameY="-16" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0026" x="285" y="0" width="153" height="177" frameX="-43" frameY="-34" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0027" x="438" y="0" width="132" height="171" frameX="-49" frameY="-42" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0028" x="438" y="171" width="97" height="169" frameX="-64" frameY="-43" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0029" x="667" y="318" width="134" height="159" frameX="-52" frameY="-54" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0030" x="801" y="429" width="170" height="143" frameX="-29" frameY="-18" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0031" x="492" y="530" width="164" height="147" frameX="-33" frameY="-16" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0032" x="285" y="0" width="153" height="177" frameX="-43" frameY="-34" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0033" x="438" y="0" width="132" height="171" frameX="-49" frameY="-42" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0034" x="438" y="171" width="97" height="169" frameX="-64" frameY="-43" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0035" x="667" y="318" width="134" height="159" frameX="-52" frameY="-54" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0036" x="801" y="429" width="170" height="143" frameX="-29" frameY="-18" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0037" x="492" y="530" width="164" height="147" frameX="-33" frameY="-16" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0038" x="285" y="0" width="153" height="177" frameX="-43" frameY="-34" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0039" x="438" y="0" width="132" height="171" frameX="-49" frameY="-42" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0040" x="438" y="171" width="97" height="169" frameX="-64" frameY="-43" frameWidth="218" frameHeight="249" />
+<SubTexture name="yell0041" x="667" y="318" width="134" height="159" frameX="-52" frameY="-54" frameWidth="218" frameHeight="249" />
+</TextureAtlas>

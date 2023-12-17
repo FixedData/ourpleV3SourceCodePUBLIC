@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="happy.png">
+<SubTexture name="happy idle0000" x="0" y="0" width="400" height="262" frameX="-9" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0001" x="400" y="0" width="406" height="262" frameX="-4" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0002" x="808" y="1048" width="410" height="246" frameX="0" frameY="-16" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0003" x="410" y="1310" width="410" height="237" frameX="0" frameY="-25" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0004" x="0" y="262" width="410" height="262" frameX="0" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0005" x="0" y="524" width="410" height="262" frameX="0" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0006" x="806" y="0" width="410" height="262" frameX="0" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0007" x="806" y="262" width="370" height="262" frameX="-1" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0008" x="806" y="524" width="379" height="262" frameX="0" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0009" x="0" y="786" width="410" height="262" frameX="0" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0010" x="410" y="786" width="410" height="262" frameX="0" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0011" x="1216" y="0" width="410" height="262" frameX="0" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0012" x="1216" y="262" width="410" height="262" frameX="0" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0013" x="398" y="1048" width="410" height="255" frameX="0" frameY="-7" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0014" x="0" y="1310" width="410" height="240" frameX="0" frameY="-16" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0015" x="1216" y="524" width="406" height="262" frameX="-4" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0016" x="1216" y="786" width="400" height="262" frameX="-8" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0017" x="0" y="1048" width="398" height="262" frameX="-12" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0018" x="410" y="262" width="394" height="262" frameX="-16" frameY="0" frameWidth="390" frameHeight="242" />
+<SubTexture name="happy idle0019" x="410" y="524" width="392" height="261" frameX="-15" frameY="0" frameWidth="390" frameHeight="242" />
+</TextureAtlas>

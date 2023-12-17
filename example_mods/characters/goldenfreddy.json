@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				16,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gfLEFT"
+		},
+		{
+			"offsets": [
+				43,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gfDOWN"
+		},
+		{
+			"offsets": [
+				-20,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gfUP"
+		},
+		{
+			"offsets": [
+				-10,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gfRIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "gfIDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DJgolden",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		182,
+		78
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

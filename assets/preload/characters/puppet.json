@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 11,
+			"name": "puppet idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 11,
+			"name": "puppet left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-33
+			],
+			"anim": "singDOWN",
+			"fps": 11,
+			"name": "puppet down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				80
+			],
+			"anim": "singUP",
+			"fps": 11,
+			"name": "puppet up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 11,
+			"name": "puppet right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fear/puppet",
+	"position": [
+		-1090,
+		-620
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		160,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

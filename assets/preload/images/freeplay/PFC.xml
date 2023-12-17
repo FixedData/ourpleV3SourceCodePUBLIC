@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PFC.png">
+<SubTexture name="FC idle0000" x="0" y="0" width="391" height="128" frameX="-51" frameY="-1" frameWidth="500" frameHeight="157" />
+<SubTexture name="FC idle0001" x="0" y="128" width="391" height="128" frameX="-51" frameY="-1" frameWidth="500" frameHeight="157" />
+<SubTexture name="FC idle0002" x="0" y="256" width="391" height="128" frameX="-51" frameY="-1" frameWidth="500" frameHeight="157" />
+<SubTexture name="FC idle0003" x="391" y="0" width="391" height="128" frameX="-51" frameY="-1" frameWidth="500" frameHeight="157" />
+<SubTexture name="FC idle0004" x="391" y="128" width="391" height="128" frameX="-51" frameY="-1" frameWidth="500" frameHeight="157" />
+<SubTexture name="FC idle0005" x="391" y="256" width="391" height="128" frameX="-51" frameY="-1" frameWidth="500" frameHeight="157" />
+<SubTexture name="FC idle0006" x="0" y="384" width="391" height="128" frameX="-51" frameY="-1" frameWidth="500" frameHeight="157" />
+<SubTexture name="FC idle0007" x="391" y="384" width="391" height="128" frameX="-51" frameY="-1" frameWidth="500" frameHeight="157" />
+</TextureAtlas>

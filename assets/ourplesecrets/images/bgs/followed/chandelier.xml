@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chandelier.png">
+<SubTexture name="i0000" x="0" y="145" width="527" height="143" frameX="-108" frameY="-205" frameWidth="775" frameHeight="650" />
+<SubTexture name="i0001" x="0" y="288" width="527" height="143" frameX="-108" frameY="-204" frameWidth="775" frameHeight="650" />
+<SubTexture name="i0002" x="0" y="0" width="528" height="145" frameX="-107" frameY="-201" frameWidth="775" frameHeight="650" />
+<SubTexture name="i0003" x="528" y="0" width="527" height="143" frameX="-108" frameY="-203" frameWidth="775" frameHeight="650" />
+</TextureAtlas>

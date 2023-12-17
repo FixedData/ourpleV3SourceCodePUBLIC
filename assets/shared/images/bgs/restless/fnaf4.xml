@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fnaf4.png">
+<SubTexture name="i0000" x="673" y="0" width="672" height="377" frameX="-26" frameY="-13" frameWidth="715" frameHeight="404" />
+<SubTexture name="i0001" x="0" y="378" width="675" height="377" frameX="-24" frameY="-13" frameWidth="715" frameHeight="404" />
+<SubTexture name="i0002" x="0" y="0" width="673" height="378" frameX="-25" frameY="-13" frameWidth="715" frameHeight="404" />
+</TextureAtlas>

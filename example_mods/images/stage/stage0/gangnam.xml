@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gangnam.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="adanceLeft0000" x="5" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0001" x="5" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0002" x="5" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0003" x="220" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0004" x="220" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0005" x="220" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0006" x="435" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0007" x="435" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0008" x="435" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0009" x="650" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0010" x="650" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0011" x="650" y="5" width="210" height="142"/>
+	<SubTexture name="adanceLeft0012" x="5" y="152" width="210" height="142"/>
+	<SubTexture name="adanceLeft0013" x="5" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0000" x="220" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0001" x="220" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0002" x="220" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0003" x="435" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0004" x="435" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0005" x="435" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0006" x="650" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0007" x="650" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0008" x="650" y="152" width="210" height="142"/>
+	<SubTexture name="adanceRight0009" x="5" y="299" width="210" height="142"/>
+	<SubTexture name="adanceRight0010" x="5" y="299" width="210" height="142"/>
+	<SubTexture name="adanceRight0011" x="5" y="299" width="210" height="142"/>
+	<SubTexture name="adanceRight0012" x="220" y="299" width="210" height="142"/>
+	<SubTexture name="adanceRight0013" x="220" y="299" width="210" height="142"/>
+	<SubTexture name="danceLeft0000" x="435" y="299" width="216" height="142"/>
+	<SubTexture name="danceLeft0001" x="435" y="299" width="216" height="142"/>
+	<SubTexture name="danceLeft0002" x="435" y="299" width="216" height="142"/>
+	<SubTexture name="danceLeft0003" x="656" y="299" width="216" height="142"/>
+	<SubTexture name="danceLeft0004" x="656" y="299" width="216" height="142"/>
+	<SubTexture name="danceLeft0005" x="656" y="299" width="216" height="142"/>
+	<SubTexture name="danceLeft0006" x="5" y="446" width="216" height="142"/>
+	<SubTexture name="danceLeft0007" x="5" y="446" width="216" height="142"/>
+	<SubTexture name="danceLeft0008" x="5" y="446" width="216" height="142"/>
+	<SubTexture name="danceLeft0009" x="226" y="446" width="216" height="142"/>
+	<SubTexture name="danceLeft0010" x="226" y="446" width="216" height="142"/>
+	<SubTexture name="danceLeft0011" x="226" y="446" width="216" height="142"/>
+	<SubTexture name="danceLeft0012" x="447" y="446" width="216" height="142"/>
+	<SubTexture name="danceLeft0013" x="447" y="446" width="216" height="142"/>
+	<SubTexture name="danceRight0000" x="668" y="446" width="212" height="142"/>
+	<SubTexture name="danceRight0001" x="668" y="446" width="212" height="142"/>
+	<SubTexture name="danceRight0002" x="668" y="446" width="212" height="142"/>
+	<SubTexture name="danceRight0003" x="5" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0004" x="5" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0005" x="5" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0006" x="222" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0007" x="222" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0008" x="222" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0009" x="439" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0010" x="439" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0011" x="439" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0012" x="656" y="593" width="212" height="142"/>
+	<SubTexture name="danceRight0013" x="656" y="593" width="212" height="142"/>
+</TextureAtlas>

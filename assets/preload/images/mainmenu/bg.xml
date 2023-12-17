@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mm_bg0000" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0001" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0002" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0003" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0004" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0005" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0006" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0007" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0008" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0009" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0010" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0011" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0012" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0013" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0014" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0015" x="0" y="0" width="851" height="483"/>
+	<SubTexture name="mm_bg0016" x="0" y="0" width="851" height="483"/>
+</TextureAtlas>

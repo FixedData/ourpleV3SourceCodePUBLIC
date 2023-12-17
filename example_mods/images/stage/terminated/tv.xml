@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tv.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tv0000" x="5" y="5" width="1626" height="909"/>
+	<SubTexture name="tv0001" x="5" y="5" width="1626" height="909"/>
+	<SubTexture name="tv0002" x="5" y="5" width="1626" height="909"/>
+	<SubTexture name="tv0003" x="5" y="5" width="1626" height="909"/>
+	<SubTexture name="tv0004" x="5" y="5" width="1626" height="909"/>
+	<SubTexture name="tv0005" x="5" y="5" width="1626" height="909"/>
+	<SubTexture name="tv0006" x="5" y="5" width="1626" height="909"/>
+	<SubTexture name="tv0007" x="5" y="919" width="1626" height="909"/>
+	<SubTexture name="tv0008" x="5" y="919" width="1626" height="909"/>
+	<SubTexture name="tv0009" x="5" y="919" width="1626" height="909"/>
+	<SubTexture name="tv0010" x="5" y="919" width="1626" height="909"/>
+	<SubTexture name="tv0011" x="5" y="919" width="1626" height="909"/>
+	<SubTexture name="tv0012" x="5" y="919" width="1626" height="909"/>
+	<SubTexture name="tv0013" x="5" y="919" width="1626" height="909"/>
+</TextureAtlas>

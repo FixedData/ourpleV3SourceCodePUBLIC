@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="load.png">
+<SubTexture name="load s0000" x="0" y="0" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0001" x="0" y="0" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0002" x="1494" y="0" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0003" x="1494" y="0" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0004" x="0" y="840" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0005" x="1494" y="0" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0006" x="1494" y="0" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0007" x="0" y="0" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0008" x="0" y="0" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0009" x="1494" y="840" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0010" x="0" y="1680" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0011" x="0" y="1680" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0012" x="1494" y="840" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+<SubTexture name="load s0013" x="1494" y="840" width="1494" height="840" frameX="0" frameY="0" frameWidth="1494" frameHeight="840" />
+</TextureAtlas>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="followbon.png">
+<SubTexture name="i0000" x="487" y="943" width="445" height="405" frameX="-138" frameY="-122" frameWidth="713" frameHeight="497" />
+<SubTexture name="i0001" x="1481" y="0" width="447" height="404" frameX="-136" frameY="-123" frameWidth="713" frameHeight="497" />
+<SubTexture name="i0002" x="1481" y="404" width="447" height="403" frameX="-136" frameY="-124" frameWidth="713" frameHeight="497" />
+<SubTexture name="i0003" x="1481" y="807" width="446" height="403" frameX="-135" frameY="-124" frameWidth="713" frameHeight="497" />
+<SubTexture name="i0004" x="932" y="943" width="447" height="405" frameX="-136" frameY="-122" frameWidth="713" frameHeight="497" />
+<SubTexture name="u0000" x="0" y="0" width="434" height="490" frameX="-139" frameY="-37" frameWidth="713" frameHeight="497" />
+<SubTexture name="u0001" x="434" y="0" width="464" height="471" frameX="-124" frameY="-56" frameWidth="713" frameHeight="497" />
+<SubTexture name="l0000" x="0" y="943" width="487" height="434" frameX="-55" frameY="-93" frameWidth="713" frameHeight="497" />
+<SubTexture name="l0001" x="571" y="490" width="483" height="436" frameX="-62" frameY="-91" frameWidth="713" frameHeight="497" />
+<SubTexture name="d0000" x="506" y="1377" width="501" height="347" frameX="-129" frameY="-180" frameWidth="713" frameHeight="497" />
+<SubTexture name="d0001" x="0" y="1377" width="506" height="356" frameX="-124" frameY="-171" frameWidth="713" frameHeight="497" />
+<SubTexture name="r0000" x="898" y="0" width="583" height="465" frameX="-152" frameY="-62" frameWidth="713" frameHeight="497" />
+<SubTexture name="r0001" x="0" y="490" width="571" height="453" frameX="-150" frameY="-74" frameWidth="713" frameHeight="497" />
+</TextureAtlas>

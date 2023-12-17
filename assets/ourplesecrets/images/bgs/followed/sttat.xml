@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sttat.png">
+<SubTexture name="sttat i0000" x="0" y="0" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat i0001" x="608" y="0" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat i0002" x="0" y="346" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat i0003" x="608" y="346" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat i0004" x="0" y="692" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat i0005" x="608" y="692" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat i0006" x="1216" y="0" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat i0007" x="1216" y="346" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat i0008" x="1216" y="692" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat i0009" x="0" y="1038" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat idle0000" x="608" y="1038" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+<SubTexture name="sttat idle0001" x="1216" y="1038" width="608" height="346" frameX="0" frameY="0" frameWidth="600" frameHeight="338" />
+</TextureAtlas>

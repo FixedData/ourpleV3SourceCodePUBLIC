@@ -1,0 +1,5 @@
+Plays object animation
+
+Value 1: Object variable name/lua tag
+
+Value 2: animation name

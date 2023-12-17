@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "freddyRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "freddyLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				-77
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "freddyDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				75
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "freddyUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "freddyIDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DJfreddy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		53,
+		41
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

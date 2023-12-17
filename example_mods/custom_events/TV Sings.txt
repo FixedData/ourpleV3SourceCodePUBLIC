@@ -1,0 +1,4 @@
+Pixel Incremented Camera Shake
+
+value 1: Intensity values (e.g.: 5, 5, 5 [1 = camGame, 2 = camHUD, 3 = border])
+value 2: duration

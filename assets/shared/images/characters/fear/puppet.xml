@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="puppet.png">
+<SubTexture name="puppet idle0000" x="1710" y="0" width="564" height="1099" frameX="-709" frameY="-443" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet idle0001" x="1170" y="0" width="540" height="1103" frameX="-706" frameY="-439" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet idle0002" x="1710" y="0" width="564" height="1099" frameX="-709" frameY="-443" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet idle0003" x="1170" y="0" width="540" height="1103" frameX="-706" frameY="-439" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet idle0004" x="1710" y="0" width="564" height="1099" frameX="-709" frameY="-443" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet idle0005" x="1170" y="0" width="540" height="1103" frameX="-706" frameY="-439" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet idle0006" x="1710" y="0" width="564" height="1099" frameX="-709" frameY="-443" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet idle0007" x="1170" y="0" width="540" height="1103" frameX="-706" frameY="-439" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet right0000" x="1255" y="1291" width="985" height="695" frameX="-1013" frameY="-849" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet right0001" x="2274" y="946" width="930" height="703" frameX="-1015" frameY="-844" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet left0000" x="0" y="1291" width="1255" height="974" frameX="-45" frameY="-597" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet left0001" x="2274" y="0" width="1137" height="946" frameX="-165" frameY="-624" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet down0000" x="0" y="0" width="520" height="1291" frameX="-944" frameY="-273" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet down0001" x="520" y="0" width="650" height="1198" frameX="-898" frameY="-365" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet up0000" x="2274" y="1649" width="408" height="553" frameX="-879" frameY="-459" frameWidth="2847" frameHeight="1653" />
+<SubTexture name="puppet up0001" x="2682" y="1649" width="394" height="544" frameX="-883" frameY="-493" frameWidth="2847" frameHeight="1653" />
+</TextureAtlas>

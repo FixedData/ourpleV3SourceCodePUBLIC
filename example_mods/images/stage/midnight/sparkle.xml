@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sparkle.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sparkle0000" x="5" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0001" x="5" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0002" x="5" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0003" x="251" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0004" x="251" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0005" x="251" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0006" x="497" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0007" x="497" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0008" x="497" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0009" x="743" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0010" x="743" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0011" x="743" y="5" width="241" height="239"/>
+	<SubTexture name="sparkle0012" x="5" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0013" x="5" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0014" x="5" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0015" x="251" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0016" x="251" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0017" x="251" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0018" x="497" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0019" x="497" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0020" x="497" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0021" x="743" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0022" x="743" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0023" x="743" y="249" width="241" height="239"/>
+	<SubTexture name="sparkle0024" x="5" y="493" width="241" height="239"/>
+	<SubTexture name="sparkle0025" x="5" y="493" width="241" height="239"/>
+	<SubTexture name="sparkle0026" x="5" y="493" width="241" height="239"/>
+	<SubTexture name="sparkle0027" x="251" y="493" width="241" height="239"/>
+	<SubTexture name="sparkle0028" x="251" y="493" width="241" height="239"/>
+	<SubTexture name="sparkle0029" x="251" y="493" width="241" height="239"/>
+	<SubTexture name="sparkle0030" x="497" y="493" width="241" height="239"/>
+	<SubTexture name="sparkle0031" x="497" y="493" width="241" height="239"/>
+	<SubTexture name="sparkle0032" x="497" y="493" width="241" height="239"/>
+</TextureAtlas>

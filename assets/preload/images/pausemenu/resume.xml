@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="resume.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pm_resumeidle0000" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumeidle0001" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumeidle0002" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumeidle0003" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumeidle0004" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumeidle0005" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumeidle0006" x="0" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0001" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0002" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0003" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0004" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0005" x="624" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0006" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0007" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0008" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0009" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0010" x="1248" y="0" width="595" height="483"/>
+	<SubTexture name="pm_resumec0011" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0012" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0013" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0014" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0015" x="0" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0016" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0017" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0018" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0019" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0020" x="624" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0021" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0022" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0023" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0024" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0025" x="1248" y="512" width="595" height="483"/>
+	<SubTexture name="pm_resumec0026" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_resumec0027" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_resumec0028" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_resumec0029" x="0" y="1024" width="595" height="483"/>
+	<SubTexture name="pm_resumec0030" x="0" y="1024" width="595" height="483"/>
+</TextureAtlas>

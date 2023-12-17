@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="logobump.png">
+<SubTexture name="logobump idle0000" x="0" y="0" width="1002" height="915" frameX="-200" frameY="-157" frameWidth="1440" frameHeight="1080" />
+<SubTexture name="logobump idle0001" x="2020" y="0" width="1052" height="785" frameX="-178" frameY="-231" frameWidth="1440" frameHeight="1080" />
+<SubTexture name="logobump idle0002" x="1002" y="0" width="1018" height="836" frameX="-193" frameY="-202" frameWidth="1440" frameHeight="1080" />
+<SubTexture name="logobump idle0003" x="0" y="915" width="996" height="818" frameX="-202" frameY="-212" frameWidth="1440" frameHeight="1080" />
+<SubTexture name="logobump idle0004" x="0" y="915" width="996" height="818" frameX="-202" frameY="-212" frameWidth="1440" frameHeight="1080" />
+</TextureAtlas>

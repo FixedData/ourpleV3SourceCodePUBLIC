@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="henryn.png">
+<SubTexture name="i0000" x="0" y="413" width="161" height="184" frameX="-101" frameY="-92" frameWidth="344" frameHeight="340" />
+<SubTexture name="i0001" x="161" y="413" width="163" height="183" frameX="-100" frameY="-93" frameWidth="344" frameHeight="340" />
+<SubTexture name="i0002" x="456" y="189" width="156" height="187" frameX="-102" frameY="-89" frameWidth="344" frameHeight="340" />
+<SubTexture name="i0003" x="456" y="0" width="157" height="189" frameX="-102" frameY="-87" frameWidth="344" frameHeight="340" />
+<SubTexture name="i0004" x="175" y="217" width="156" height="190" frameX="-102" frameY="-86" frameWidth="344" frameHeight="340" />
+<SubTexture name="l0000" x="0" y="217" width="175" height="196" frameX="-78" frameY="-89" frameWidth="344" frameHeight="340" />
+<SubTexture name="l0001" x="280" y="0" width="176" height="198" frameX="-80" frameY="-87" frameWidth="344" frameHeight="340" />
+<SubTexture name="d0000" x="1750" y="559" width="176" height="134" frameX="-96" frameY="-144" frameWidth="344" frameHeight="340" />
+<SubTexture name="d0001" x="1750" y="420" width="172" height="139" frameX="-98" frameY="-139" frameWidth="344" frameHeight="340" />
+<SubTexture name="r0000" x="613" y="0" width="214" height="160" frameX="-100" frameY="-117" frameWidth="344" frameHeight="340" />
+<SubTexture name="r0001" x="324" y="413" width="209" height="163" frameX="-100" frameY="-114" frameWidth="344" frameHeight="340" />
+<SubTexture name="u0000" x="0" y="0" width="138" height="217" frameX="-113" frameY="-62" frameWidth="344" frameHeight="340" />
+<SubTexture name="u0001" x="138" y="0" width="142" height="208" frameX="-110" frameY="-71" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0000" x="1257" y="1374" width="159" height="150" frameX="-101" frameY="-126" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0001" x="152" y="754" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0002" x="613" y="160" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0003" x="613" y="317" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0004" x="0" y="597" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0005" x="151" y="597" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0006" x="302" y="597" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0007" x="453" y="597" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0008" x="604" y="597" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0009" x="827" y="0" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0010" x="827" y="157" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="meaningless0011" x="827" y="314" width="151" height="157" frameX="-105" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="orphan0000" x="1416" y="1374" width="159" height="150" frameX="-101" frameY="-126" frameWidth="344" frameHeight="340" />
+<SubTexture name="orphan0001" x="0" y="1221" width="155" height="153" frameX="-103" frameY="-122" frameWidth="344" frameHeight="340" />
+<SubTexture name="orphan0002" x="305" y="754" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="orphan0003" x="458" y="754" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="orphan0004" x="611" y="754" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="orphan0005" x="764" y="754" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="orphan0006" x="978" y="0" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="orphan0007" x="978" y="155" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0000" x="1591" y="0" width="159" height="150" frameX="-101" frameY="-126" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0001" x="155" y="1221" width="155" height="153" frameX="-103" frameY="-122" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0002" x="978" y="310" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0003" x="978" y="465" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0004" x="978" y="620" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0005" x="0" y="911" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0006" x="153" y="911" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0007" x="306" y="911" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0008" x="459" y="911" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0009" x="1071" y="1066" width="156" height="154" frameX="-103" frameY="-121" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0010" x="310" y="1221" width="156" height="153" frameX="-104" frameY="-122" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0011" x="0" y="1374" width="157" height="152" frameX="-104" frameY="-123" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0012" x="157" y="1374" width="158" height="152" frameX="-104" frameY="-123" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0013" x="315" y="1374" width="158" height="152" frameX="-106" frameY="-123" frameWidth="344" frameHeight="340" />
+<SubTexture name="false savior0014" x="466" y="1221" width="159" height="153" frameX="-106" frameY="-122" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0000" x="1591" y="150" width="159" height="150" frameX="-101" frameY="-126" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0001" x="625" y="1221" width="155" height="153" frameX="-103" frameY="-122" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0002" x="612" y="911" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0003" x="765" y="911" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0004" x="473" y="1374" width="157" height="152" frameX="-102" frameY="-123" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0005" x="780" y="1221" width="155" height="153" frameX="-103" frameY="-122" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0006" x="935" y="1221" width="155" height="153" frameX="-103" frameY="-122" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0007" x="1090" y="1221" width="155" height="153" frameX="-103" frameY="-122" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0008" x="953" y="1526" width="166" height="146" frameX="-101" frameY="-129" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0009" x="1591" y="1199" width="158" height="148" frameX="-102" frameY="-127" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0010" x="1591" y="1347" width="158" height="148" frameX="-102" frameY="-127" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0011" x="160" y="1526" width="158" height="148" frameX="-102" frameY="-127" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0012" x="318" y="1526" width="158" height="148" frameX="-102" frameY="-127" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0013" x="476" y="1526" width="158" height="148" frameX="-102" frameY="-127" frameWidth="344" frameHeight="340" />
+<SubTexture name="god damn coward0014" x="634" y="1526" width="158" height="148" frameX="-102" frameY="-127" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0000" x="792" y="1526" width="161" height="148" frameX="-101" frameY="-128" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0001" x="1591" y="300" width="159" height="150" frameX="-101" frameY="-126" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0002" x="1245" y="1221" width="155" height="153" frameX="-103" frameY="-122" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0003" x="918" y="911" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0004" x="1131" y="0" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0005" x="1131" y="155" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0006" x="1131" y="310" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0007" x="1131" y="465" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0008" x="1131" y="620" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0009" x="1131" y="775" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0010" x="0" y="1066" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0011" x="153" y="1066" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0012" x="306" y="1066" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0013" x="459" y="1066" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0014" x="0" y="754" width="152" height="157" frameX="-104" frameY="-118" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0015" x="1119" y="1526" width="162" height="145" frameX="-103" frameY="-130" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0016" x="1591" y="450" width="159" height="150" frameX="-104" frameY="-125" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0017" x="630" y="1374" width="158" height="152" frameX="-104" frameY="-123" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0018" x="788" y="1374" width="158" height="152" frameX="-104" frameY="-123" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0019" x="0" y="1526" width="160" height="149" frameX="-104" frameY="-126" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0020" x="1591" y="600" width="159" height="150" frameX="-104" frameY="-125" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0021" x="1591" y="750" width="159" height="150" frameX="-104" frameY="-125" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0022" x="1591" y="1050" width="157" height="149" frameX="-105" frameY="-126" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0023" x="827" y="471" width="151" height="156" frameX="-106" frameY="-117" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0024" x="1437" y="0" width="154" height="153" frameX="-105" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are just as bad as me0025" x="946" y="1374" width="156" height="152" frameX="-104" frameY="-121" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0000" x="1591" y="900" width="159" height="150" frameX="-101" frameY="-126" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0001" x="1102" y="1374" width="155" height="152" frameX="-104" frameY="-123" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0002" x="1284" y="0" width="153" height="154" frameX="-104" frameY="-121" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0003" x="612" y="1066" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0004" x="765" y="1066" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0005" x="918" y="1066" width="153" height="155" frameX="-104" frameY="-120" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0006" x="181" y="1675" width="185" height="134" frameX="-90" frameY="-141" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0007" x="0" y="1675" width="181" height="136" frameX="-92" frameY="-139" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0008" x="1281" y="1526" width="178" height="140" frameX="-93" frameY="-135" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0009" x="1459" y="1526" width="178" height="140" frameX="-93" frameY="-135" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0010" x="1750" y="0" width="178" height="140" frameX="-93" frameY="-135" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0011" x="1750" y="140" width="178" height="140" frameX="-93" frameY="-135" frameWidth="344" frameHeight="340" />
+<SubTexture name="you are a cancer0012" x="1750" y="280" width="178" height="140" frameX="-93" frameY="-135" frameWidth="344" frameHeight="340" />
+</TextureAtlas>

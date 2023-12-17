@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gogogobg.png">
+<SubTexture name="i0000" x="0" y="0" width="884" height="570" frameX="0" frameY="0" frameWidth="864" frameHeight="550" />
+<SubTexture name="i0001" x="884" y="0" width="884" height="570" frameX="0" frameY="0" frameWidth="864" frameHeight="550" />
+<SubTexture name="i0002" x="0" y="570" width="884" height="570" frameX="0" frameY="0" frameWidth="864" frameHeight="550" />
+<SubTexture name="i0003" x="884" y="570" width="884" height="570" frameX="0" frameY="0" frameWidth="864" frameHeight="550" />
+<SubTexture name="i0004" x="0" y="1140" width="884" height="570" frameX="0" frameY="0" frameWidth="864" frameHeight="550" />
+<SubTexture name="i0005" x="884" y="1140" width="884" height="570" frameX="0" frameY="0" frameWidth="864" frameHeight="550" />
+<SubTexture name="i0006" x="1768" y="0" width="884" height="570" frameX="0" frameY="0" frameWidth="864" frameHeight="550" />
+<SubTexture name="i0007" x="1768" y="570" width="884" height="570" frameX="0" frameY="0" frameWidth="864" frameHeight="550" />
+</TextureAtlas>

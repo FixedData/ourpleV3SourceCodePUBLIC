@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DJbonnie.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bonnieDOWN0000" x="10" y="10" width="903" height="1150" frameX="-5" frameY="-27" frameWidth="922" frameHeight="1186"/>
+	<SubTexture name="bonnieDOWN0001" x="10" y="10" width="903" height="1150" frameX="-5" frameY="-27" frameWidth="922" frameHeight="1186"/>
+	<SubTexture name="bonnieDOWN0002" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0003" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0004" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0005" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0006" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0007" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0008" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0009" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0010" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0011" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0012" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0013" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0014" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0015" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0016" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0017" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0018" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieDOWN0019" x="923" y="10" width="922" height="1186"/>
+	<SubTexture name="bonnieIDLE0000" x="1855" y="10" width="1020" height="1178" frameX="-13" frameY="-56" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0001" x="1855" y="10" width="1020" height="1178" frameX="-13" frameY="-56" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0002" x="2885" y="10" width="1015" height="1176" frameX="-16" frameY="-50" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0003" x="2885" y="10" width="1015" height="1176" frameX="-16" frameY="-50" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0004" x="3910" y="10" width="1015" height="1172" frameX="-16" frameY="-54" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0005" x="3910" y="10" width="1015" height="1172" frameX="-16" frameY="-54" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0006" x="3910" y="10" width="1015" height="1172" frameX="-16" frameY="-54" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0007" x="3910" y="10" width="1015" height="1172" frameX="-16" frameY="-54" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0008" x="4935" y="10" width="1015" height="1181" frameX="-13" frameY="-25" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0009" x="4935" y="10" width="1015" height="1181" frameX="-13" frameY="-25" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0010" x="5960" y="10" width="994" height="1177" frameX="0" frameY="-4" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0011" x="5960" y="10" width="994" height="1177" frameX="0" frameY="-4" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0012" x="6964" y="10" width="986" height="1181" frameX="-4" frameY="0" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0013" x="6964" y="10" width="986" height="1181" frameX="-4" frameY="0" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0014" x="10" y="1206" width="986" height="1180" frameX="-4" frameY="-1" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0015" x="10" y="1206" width="986" height="1180" frameX="-4" frameY="-1" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0016" x="10" y="1206" width="986" height="1180" frameX="-4" frameY="-1" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0017" x="10" y="1206" width="986" height="1180" frameX="-4" frameY="-1" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0018" x="10" y="1206" width="986" height="1180" frameX="-4" frameY="-1" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieIDLE0019" x="10" y="1206" width="986" height="1180" frameX="-4" frameY="-1" frameWidth="1033" frameHeight="1234"/>
+	<SubTexture name="bonnieLEFT0000" x="1006" y="1206" width="968" height="1183" frameX="-9" frameY="0" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0001" x="1006" y="1206" width="968" height="1183" frameX="-9" frameY="0" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0002" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0003" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0004" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0005" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0006" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0007" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0008" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0009" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0010" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0011" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0012" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0013" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0014" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0015" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0016" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0017" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0018" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieLEFT0019" x="1984" y="1206" width="959" height="1178" frameX="0" frameY="-11" frameWidth="977" frameHeight="1189"/>
+	<SubTexture name="bonnieRIGHT0000" x="2953" y="1206" width="1043" height="1169" frameX="-9" frameY="0" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0001" x="2953" y="1206" width="1043" height="1169" frameX="-9" frameY="0" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0002" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0003" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0004" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0005" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0006" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0007" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0008" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0009" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0010" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0011" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0012" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0013" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0014" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0015" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0016" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0017" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0018" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieRIGHT0019" x="4006" y="1206" width="1064" height="1151" frameX="0" frameY="-31" frameWidth="1064" frameHeight="1182"/>
+	<SubTexture name="bonnieUP0000" x="5080" y="1206" width="989" height="1159" frameX="-8" frameY="0" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0001" x="5080" y="1206" width="989" height="1159" frameX="-8" frameY="0" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0002" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0003" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0004" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0005" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0006" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0007" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0008" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0009" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0010" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0011" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0012" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0013" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0014" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0015" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0016" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+	<SubTexture name="bonnieUP0017" x="6079" y="1206" width="983" height="1176" frameX="0" frameY="-24" frameWidth="997" frameHeight="1200"/>
+</TextureAtlas>

@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "spring up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "spring left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "spring down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "spring right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				2,
+				1,
+				0
+			],
+			"name": "spring IDLE"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/faznews/spring",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sp",
+	"flip_x": true,
+	"healthbar_colors": [
+		111,
+		127,
+		76
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

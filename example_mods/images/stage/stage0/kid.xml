@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kid.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cheer0000" x="5" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0001" x="5" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0002" x="5" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0003" x="5" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0004" x="5" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0005" x="130" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0006" x="130" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0007" x="130" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0008" x="130" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0009" x="130" y="5" width="120" height="120"/>
+	<SubTexture name="cheer0010" x="5" y="130" width="120" height="120"/>
+	<SubTexture name="cheer0011" x="5" y="130" width="120" height="120"/>
+	<SubTexture name="cheer0012" x="5" y="130" width="120" height="120"/>
+	<SubTexture name="cheer0013" x="130" y="130" width="120" height="120"/>
+	<SubTexture name="cheer0014" x="130" y="130" width="120" height="120"/>
+	<SubTexture name="cheer0015" x="130" y="130" width="120" height="120"/>
+</TextureAtlas>

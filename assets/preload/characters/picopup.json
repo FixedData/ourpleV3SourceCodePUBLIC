@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 11,
+			"anim": "idle",
+			"indices": [],
+			"name": "pico idle"
+		},
+		{
+			"offsets": [
+				-40,
+				30
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pico down"
+		},
+		{
+			"offsets": [
+				34,
+				3
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico up"
+		},
+		{
+			"offsets": [
+				-1,
+				3
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pico left"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pico right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fear/pico",
+	"position": [
+		-1490,
+		-560
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-1060,
+		590
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

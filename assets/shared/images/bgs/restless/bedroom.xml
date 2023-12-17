@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bedroom.png">
+<SubTexture name="i0000" x="679" y="0" width="680" height="369" frameX="-22" frameY="-26" frameWidth="715" frameHeight="404" />
+<SubTexture name="i0001" x="0" y="0" width="679" height="370" frameX="-23" frameY="-26" frameWidth="715" frameHeight="404" />
+<SubTexture name="i0002" x="0" y="370" width="679" height="367" frameX="-23" frameY="-27" frameWidth="715" frameHeight="404" />
+</TextureAtlas>

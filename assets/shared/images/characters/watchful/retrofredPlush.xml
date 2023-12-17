@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="retrofredPlush.png">
+<SubTexture name="idle0000" x="0" y="0" width="21" height="25" frameX="0" frameY="0" frameWidth="11" frameHeight="15" />
+<SubTexture name="up0000" x="21" y="0" width="21" height="25" frameX="0" frameY="0" frameWidth="11" frameHeight="15" />
+<SubTexture name="up0001" x="42" y="0" width="21" height="25" frameX="0" frameY="0" frameWidth="11" frameHeight="15" />
+<SubTexture name="left0000" x="0" y="25" width="21" height="25" frameX="0" frameY="0" frameWidth="11" frameHeight="15" />
+<SubTexture name="left0001" x="21" y="25" width="21" height="25" frameX="0" frameY="0" frameWidth="11" frameHeight="15" />
+<SubTexture name="down0000" x="42" y="25" width="21" height="25" frameX="0" frameY="0" frameWidth="11" frameHeight="15" />
+<SubTexture name="down0001" x="63" y="0" width="21" height="25" frameX="0" frameY="0" frameWidth="11" frameHeight="15" />
+<SubTexture name="right0000" x="63" y="25" width="21" height="25" frameX="0" frameY="0" frameWidth="11" frameHeight="15" />
+<SubTexture name="right0001" x="0" y="50" width="21" height="25" frameX="0" frameY="0" frameWidth="11" frameHeight="15" />
+</TextureAtlas>

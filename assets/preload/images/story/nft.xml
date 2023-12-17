@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nft.png">
+<SubTexture name="i0000" x="0" y="122" width="410" height="101" frameX="-342" frameY="-223" frameWidth="851" frameHeight="483" />
+<SubTexture name="s0000" x="0" y="0" width="465" height="122" frameX="-342" frameY="-212" frameWidth="851" frameHeight="483" />
+</TextureAtlas>

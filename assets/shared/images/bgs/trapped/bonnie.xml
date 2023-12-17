@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bonnie.png">
+<SubTexture name="i0000" x="0" y="0" width="1081" height="2022" frameX="-434" frameY="-29" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="i0001" x="1081" y="0" width="1078" height="2006" frameX="-440" frameY="-42" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

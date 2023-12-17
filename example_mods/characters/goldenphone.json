@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				26,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "phone left"
+		},
+		{
+			"offsets": [
+				-5,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "phone right"
+		},
+		{
+			"offsets": [
+				3,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "phone down"
+		},
+		{
+			"offsets": [
+				-6,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "phone up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-171
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "phone0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-152
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ring",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				3,
+				4,
+				5,
+				3,
+				4,
+				5,
+				3,
+				4,
+				5,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "phone ring"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/golden_phone",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "phone",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		40,
+		77
+	],
+	"camera_position": [
+		50,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

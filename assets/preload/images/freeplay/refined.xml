@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="refined.png">
+<SubTexture name="refined i0000" x="542" y="0" width="262" height="129" frameX="-342" frameY="-108" frameWidth="595" frameHeight="223" />
+<SubTexture name="refined i0001" x="275" y="218" width="267" height="134" frameX="-338" frameY="-107" frameWidth="595" frameHeight="223" />
+<SubTexture name="refined i0002" x="0" y="434" width="263" height="129" frameX="-341" frameY="-109" frameWidth="595" frameHeight="223" />
+<SubTexture name="refined s0000" x="270" y="0" width="272" height="216" frameX="-334" frameY="-14" frameWidth="595" frameHeight="223" />
+<SubTexture name="refined s0001" x="0" y="0" width="270" height="218" frameX="-340" frameY="-12" frameWidth="595" frameHeight="223" />
+<SubTexture name="refined s0002" x="0" y="218" width="275" height="216" frameX="-336" frameY="-13" frameWidth="595" frameHeight="223" />
+</TextureAtlas>

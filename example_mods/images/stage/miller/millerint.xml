@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="millerint.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="millerint0000" x="5" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0001" x="760" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0002" x="1515" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0003" x="2270" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0004" x="3025" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0005" x="3780" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0006" x="4535" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0007" x="5290" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0008" x="6045" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0009" x="6800" y="5" width="750" height="568"/>
+	<SubTexture name="millerint0010" x="5" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0011" x="760" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0012" x="1515" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0013" x="2270" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0014" x="3025" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0015" x="3780" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0016" x="4535" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0017" x="5290" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0018" x="6045" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0019" x="6800" y="578" width="750" height="568"/>
+	<SubTexture name="millerint0020" x="5" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0021" x="760" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0022" x="1515" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0023" x="2270" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0024" x="3025" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0025" x="3780" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0026" x="4535" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0027" x="5290" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0028" x="6045" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0029" x="6800" y="1151" width="750" height="568"/>
+	<SubTexture name="millerint0030" x="5" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0031" x="760" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0032" x="1515" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0033" x="2270" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0034" x="3025" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0035" x="3780" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0036" x="4535" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0037" x="5290" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0038" x="6045" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0039" x="6800" y="1724" width="750" height="568"/>
+	<SubTexture name="millerint0040" x="5" y="2297" width="750" height="568"/>
+	<SubTexture name="millerint0041" x="760" y="2297" width="750" height="568"/>
+	<SubTexture name="millerint0042" x="760" y="2297" width="750" height="568"/>
+</TextureAtlas>

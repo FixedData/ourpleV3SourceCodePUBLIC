@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brookebeat.png">
+<SubTexture name="brookebeat rightmiss0000" x="2277" y="2132" width="771" height="952" frameX="-104" frameY="-148" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat downmiss0000" x="753" y="1100" width="848" height="1021" frameX="-27" frameY="-79" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat downmiss0001" x="1550" y="0" width="834" height="1032" frameX="-41" frameY="-68" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat upmiss0000" x="0" y="0" width="763" height="1100" frameX="-110" frameY="0" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat upmiss0001" x="763" y="0" width="787" height="1090" frameX="-88" frameY="-10" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat leftmiss0000" x="3982" y="0" width="875" height="932" frameX="0" frameY="-168" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat leftmiss0001" x="3135" y="0" width="847" height="945" frameX="-28" frameY="-155" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat idle0000" x="2384" y="0" width="751" height="986" frameX="-124" frameY="-114" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat idle0001" x="2384" y="986" width="751" height="977" frameX="-124" frameY="-123" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat right0000" x="3135" y="945" width="690" height="945" frameX="-185" frameY="-155" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat right0001" x="0" y="2132" width="695" height="971" frameX="-180" frameY="-129" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat down0000" x="3982" y="1846" width="746" height="887" frameX="-129" frameY="-213" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat down0001" x="3982" y="932" width="741" height="914" frameX="-132" frameY="-186" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat up0000" x="0" y="1100" width="753" height="1032" frameX="-122" frameY="-68" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat up0001" x="1601" y="1100" width="758" height="1012" frameX="-117" frameY="-88" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat left0000" x="1480" y="2132" width="797" height="966" frameX="-78" frameY="-134" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat left0001" x="695" y="2132" width="785" height="968" frameX="-90" frameY="-132" frameWidth="855" frameHeight="1080" />
+<SubTexture name="brookebeat rightmiss0001" x="3135" y="1890" width="768" height="939" frameX="-107" frameY="-161" frameWidth="855" frameHeight="1080" />
+</TextureAtlas>

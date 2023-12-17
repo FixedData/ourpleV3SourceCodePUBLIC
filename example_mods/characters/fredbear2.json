@@ -1,0 +1,170 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singUPmiss",
+			"fps": 12,
+			"name": "mu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 12,
+			"name": "mr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "al",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "ad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "au",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				37
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "ar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singLEFTmiss",
+			"fps": 12,
+			"name": "md",
+			"indices": [
+				0
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				37
+			],
+			"anim": "singDOWNmiss",
+			"fps": 12,
+			"name": "md",
+			"indices": [
+				1
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fredbear2",
+	"position": [
+		-10,
+		-5
+	],
+	"healthicon": "fredbear",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		204,
+		6
+	],
+	"camera_position": [
+		-145,
+		110
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

@@ -1,0 +1,4 @@
+alters visibilty of an object
+
+Value 1: object name/lua tag
+Value 2: true/false (true = visible, false = invisible)

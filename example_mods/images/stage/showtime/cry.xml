@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cry.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cry0000" x="5" y="5" width="105" height="93"/>
+	<SubTexture name="cry0001" x="5" y="5" width="105" height="93"/>
+	<SubTexture name="cry0002" x="5" y="5" width="105" height="93"/>
+	<SubTexture name="cry0003" x="5" y="5" width="105" height="93"/>
+	<SubTexture name="cry0004" x="5" y="5" width="105" height="93"/>
+	<SubTexture name="cry0005" x="5" y="5" width="105" height="93"/>
+	<SubTexture name="cry0006" x="5" y="5" width="105" height="93"/>
+	<SubTexture name="cry0007" x="5" y="5" width="105" height="93"/>
+	<SubTexture name="cry0008" x="5" y="5" width="105" height="93"/>
+	<SubTexture name="cry0009" x="115" y="5" width="105" height="93"/>
+	<SubTexture name="cry0010" x="115" y="5" width="105" height="93"/>
+	<SubTexture name="cry0011" x="115" y="5" width="105" height="93"/>
+	<SubTexture name="cry0012" x="115" y="5" width="105" height="93"/>
+	<SubTexture name="cry0013" x="115" y="5" width="105" height="93"/>
+	<SubTexture name="cry0014" x="115" y="5" width="105" height="93"/>
+	<SubTexture name="cry0015" x="115" y="5" width="105" height="93"/>
+	<SubTexture name="cry0016" x="115" y="5" width="105" height="93"/>
+	<SubTexture name="cry0017" x="115" y="5" width="105" height="93"/>
+</TextureAtlas>

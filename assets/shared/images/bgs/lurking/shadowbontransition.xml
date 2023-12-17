@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shadowbontransition.png">
+<SubTexture name="shadowbontransition idle0000" x="978" y="2060" width="215" height="463" frameX="0" frameY="-52" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0001" x="0" y="0" width="366" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0002" x="366" y="0" width="686" height="515" frameX="-74" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0003" x="0" y="515" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0004" x="1052" y="0" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0005" x="1052" y="515" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0006" x="0" y="1030" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0007" x="978" y="1030" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0008" x="2030" y="0" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0009" x="2030" y="515" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0010" x="2030" y="1030" width="941" height="515" frameX="-37" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0011" x="0" y="1545" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0012" x="978" y="1545" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0013" x="1956" y="1545" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+<SubTexture name="shadowbontransition idle0014" x="0" y="2060" width="978" height="515" frameX="0" frameY="0" frameWidth="958" frameHeight="495" />
+</TextureAtlas>

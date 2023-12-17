@@ -1,0 +1,140 @@
+{
+	"subtitles": [
+		{
+			"sub": "Meaningless.",
+			"firstStep": 1527,
+			"finalStep": 1536,
+			"color": "purple"
+		},
+		{
+			"sub": "Orphan.",
+			"firstStep": 1768,
+			"finalStep": 1776,
+			"color": "purple"
+		},
+		{
+			"sub": "False Savior.",
+			"firstStep": 2450,
+			"finalStep": 2464,
+			"color": "purple"
+		},
+		{
+			"sub": "God.",
+			"firstStep": 2952,
+			"finalStep": 2960,
+			"color": "purple",
+			"skipFadeOut": true
+		},
+		{
+			"sub": "Damn.",
+			"firstStep": 2960,
+			"finalStep": 2968,
+			"color": "purple",
+			"fontSize": 36,
+			"skipFadeOut": true,
+			"skipFadeIn": true
+			
+		},
+		{
+			"sub": "COWARD.",
+			"firstStep": 2968,
+			"finalStep": 2976,
+			"color": "purple",
+			"fontSize": 40,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "You",
+			"firstStep": 3744,
+			"finalStep": 3748,
+			"color": "purple",
+			"skipFadeOut": true,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "are",
+			"firstStep": 3748,
+			"finalStep": 3751,
+			"color": "purple",
+			"skipFadeOut": true,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "just",
+			"firstStep": 3751,
+			"finalStep": 3755,
+			"color": "purple",
+			"skipFadeOut": true,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "as",
+			"firstStep": 3755,
+			"finalStep": 3758,
+			"color": "purple",
+			"skipFadeOut": true,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "bad",
+			"firstStep": 3758,
+			"finalStep": 3763,
+			"color": "purple",
+			"skipFadeOut": true,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "as",
+			"firstStep": 3763,
+			"finalStep": 3766,
+			"color": "purple",
+			"skipFadeOut": true,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "ME",
+			"firstStep": 3766,
+			"finalStep": 3776,
+			"color": "red",
+			"fontSize": 40,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "You",
+			"firstStep": 4016,
+			"finalStep": 4019,
+			"color": "purple",
+			"skipFadeOut": true
+		},
+		{
+			"sub": "are",
+			"firstStep": 4019,
+			"finalStep": 4022,
+			"color": "purple",
+			"skipFadeOut": true,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "a",
+			"firstStep": 4022,
+			"finalStep": 4023,
+			"color": "purple",
+			"skipFadeOut": true,
+			"skipFadeIn": true
+		},
+		{
+			"sub": "CANCER",
+			"firstStep": 4023,
+			"finalStep": 4032,
+			"color": "purple",
+			"skipFadeIn": true
+		}
+
+
+
+
+
+
+	]
+
+}

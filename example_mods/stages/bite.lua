@@ -317,7 +317,8 @@ function onCreatePost()
 	screenCenter("loadcircle")
 	setObjectCamera('loadcircle','other')
 	addLuaSprite("loadcircle", true)
-	setProperty('introSoundsSuffix','asdasd')
+
+	setProperty('mutedIntroSounds',true)
 	
 end
 

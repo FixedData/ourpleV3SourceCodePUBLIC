@@ -27,7 +27,7 @@ function onCreatePost()
 	setProperty('fire2.flipY', true)
 	addLuaSprite('fire2', true);
 
-	setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'empty')
+	setPropertyFromClass('GameOverSubstate', 'deathSoundName', '')
 end
 
 function fakeOver()
@@ -55,7 +55,7 @@ function fakeOver()
 		
 		FlxG.sound.music.volume = 0;
 		game.vocals.volume = 0;
-		game.introSoundsSuffix = 'empty';
+		game.introSoundsSuffix = '';
 		isCameraOnForcedPos = true;
 
 		

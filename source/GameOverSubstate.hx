@@ -29,6 +29,7 @@ class GameOverSubstate extends MusicBeatSubstate
 	public static var loopSoundName:String = 'gameOver';
 	public static var endSoundName:String = 'retry';
 
+
 	public static var instance:GameOverSubstate;
 	public static var seenVideoOnce:Bool = false;
 	public static function resetVariables() {
@@ -65,7 +66,7 @@ class GameOverSubstate extends MusicBeatSubstate
 		camFollow = new FlxPoint(boyfriend.getGraphicMidpoint().x, boyfriend.getGraphicMidpoint().y);
 
 
-		if (!playVideo)
+		if (!playVideo && deathSoundName.length != 0)
 			FlxG.sound.play(Paths.sound(deathSoundName));
 		Conductor.changeBPM(100);
 		FlxG.camera.scroll.set();
@@ -188,7 +189,7 @@ class GameOverSubstate extends MusicBeatSubstate
 
 	function coolStartDeath(?volume:Float = 1):Void
 	{
-		FlxG.sound.playMusic(Paths.music(loopSoundName), volume);
+		if (loopSoundName.length != 0) FlxG.sound.playMusic(Paths.music(loopSoundName), volume);
 	}
 
 	function endBullshit():Void
@@ -198,7 +199,7 @@ class GameOverSubstate extends MusicBeatSubstate
 			isEnding = true;
 			boyfriend.playAnim('deathConfirm', true);
 			FlxG.sound.music.stop();
-			if (!playVideo) FlxG.sound.play(Paths.music(endSoundName));
+			if (!playVideo && endSoundName.length != 0) FlxG.sound.play(Paths.music(endSoundName));
 			new FlxTimer().start(0.7, function(tmr:FlxTimer)
 			{
 				FlxG.camera.fade(FlxColor.BLACK, 2, false, function()

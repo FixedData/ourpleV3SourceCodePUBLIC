@@ -379,6 +379,12 @@ class PlayState extends MusicBeatState
 	public var camZoomMult:Float = 1;
 
 
+	/**
+	 * If `true`, the intro sounds will be muted
+	 */
+	public var mutedIntroSounds:Bool = false;
+
+
 	var subtitles:Null<SubtitleHandler>;
 
 
@@ -2280,7 +2286,7 @@ class PlayState extends MusicBeatState
 								countdownOnyourmarks.destroy();
 							}
 						});
-						FlxG.sound.play(Paths.sound('intro3' + introSoundsSuffix), 0.6);
+						if (!mutedIntroSounds) FlxG.sound.play(Paths.sound('intro3' + introSoundsSuffix), 0.6);
 					case 1:
 						countdownReady = new FlxSprite().loadGraphic(Paths.image(introAlts[1]));
 						countdownReady.cameras = [camHUD];
@@ -2306,7 +2312,7 @@ class PlayState extends MusicBeatState
 								countdownReady.destroy();
 							}
 						});
-						FlxG.sound.play(Paths.sound('intro2' + introSoundsSuffix), 0.6);
+						if (!mutedIntroSounds) FlxG.sound.play(Paths.sound('intro2' + introSoundsSuffix), 0.6);
 					case 2:
 						countdownSet = new FlxSprite().loadGraphic(Paths.image(introAlts[2]));
 						countdownSet.cameras = [camHUD];
@@ -2331,7 +2337,7 @@ class PlayState extends MusicBeatState
 								countdownSet.destroy();
 							}
 						});
-						FlxG.sound.play(Paths.sound('intro1' + introSoundsSuffix), 0.6);
+						if (!mutedIntroSounds) FlxG.sound.play(Paths.sound('intro1' + introSoundsSuffix), 0.6);
 					case 3:
 						countdownGo = new FlxSprite().loadGraphic(Paths.image(introAlts[3]));
 						countdownGo.cameras = [camHUD];
@@ -2359,7 +2365,7 @@ class PlayState extends MusicBeatState
 								countdownGo.destroy();
 							}
 						});
-						FlxG.sound.play(Paths.sound('introGo' + introSoundsSuffix), 0.6);
+						if (!mutedIntroSounds) FlxG.sound.play(Paths.sound('introGo' + introSoundsSuffix), 0.6);
 					case 4:
 						countdownFinished = true;
 				}

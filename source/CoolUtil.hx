@@ -7,7 +7,7 @@ import openfl.utils.Assets;
 import lime.utils.Assets as LimeAssets;
 import lime.utils.AssetLibrary;
 import lime.utils.AssetManifest;
-import flixel.system.FlxSound;
+import flixel.sound.FlxSound;
 import flixel.addons.display.FlxRuntimeShader;
 #if sys
 import sys.io.File;
@@ -170,10 +170,10 @@ class CoolUtil
 
 	public static function initializeShader(shader:String,?updateiTime:Bool = false):FlxRuntimeShader 
 	{
-		if (!ClientPrefs.shaders) return new FlxRuntimeShader(); //yknow too i realize i couldve just... made forks of flxg and flxcam that check if client prefs is true before setting filter
+		if (!ClientPrefs.shaders) return new FlxRuntimeShader(); 
 		else {
 			var fragment = CoolUtil.fragToString(shader);
-			if (fragment.contains('assets/shaders')) { //probably imperfect but should be fine? prevents crashing and seems to work so whatever
+			if (fragment.contains('assets/shaders')) {
 				trace('invalid shader Fragment! "$fragment"');
 				FlxG.log.error('invalid shader Fragment! "$fragment"');
 				return new FlxRuntimeShader();

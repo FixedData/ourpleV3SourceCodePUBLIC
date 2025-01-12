@@ -750,6 +750,7 @@ class FlxInputText extends FlxText
 			// Generate the properly sized caret and also draw a border that matches that of the textfield (if a border style is set)
 			// borderQuality can be safely ignored since the caret is always a rectangle
 
+			var caretHeight = Std.int(size + 2);
 			var cw:Int = caretWidth; // Basic size of the caret
 			var ch:Int = Std.int(size + 2);
 
@@ -776,6 +777,21 @@ class FlxInputText extends FlxText
 					r.x = r.y = 0;
 					caret.pixels.fillRect(r, caretC); // draw caret
 					caret.offset.x = caret.offset.y = 0;
+
+				#if (flixel > "5.8.0")
+				case SHADOW_XY(shadowX, shadowY):
+					// Shadow offset to the lower-right
+					cw += Std.int(Math.abs(shadowX));
+					ch += Std.int(Math.abs(shadowY)); // expand canvas on one side for shadow
+					caret.makeGraphic(cw, ch, FlxColor.TRANSPARENT, false, caretKey); // start with transparent canvas
+					final r:Rectangle = new Rectangle(Math.max(0, shadowX), Math.max(0, shadowY), caretWidth, caretHeight);
+					caret.pixels.fillRect(r, borderC); // draw shadow
+					r.x -= shadowX;
+					r.y -= shadowY;
+					caret.pixels.fillRect(r, caretC); // draw caret
+					caret.offset.x = shadowX < 0 ? -shadowX : 0;
+					caret.offset.y = shadowY < 0 ? -shadowY : 0;
+				#end
 
 				case OUTLINE_FAST, OUTLINE:
 					// Border all around it

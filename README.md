@@ -1,6 +1,6 @@
 # Ourple funkintastic adventure the v3!
 
-![](https://github.com/FixedData/ourpleV3SourceCodePUBLIC/blob/main/promo.png)
+![](https://github.com/FixedData/ourpleV3SourceCodePUBLIC/blob/main/art/promo.png)
 
 
 ## Keep note to compile you should

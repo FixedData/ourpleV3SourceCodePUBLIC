@@ -7,4 +7,4 @@
 * Use haxe 4.3.0 or newer
 * Download hmm haxelib and run it
 * in a cmd in the directory of the source do "hmm install"
-Then you should be ready to "lime test windows"
+### Then you should be ready to "lime test windows"

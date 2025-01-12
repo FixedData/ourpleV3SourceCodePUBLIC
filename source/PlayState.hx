@@ -2975,10 +2975,6 @@ class PlayState extends MusicBeatState
 		// 	midSongVideo.bitmap.resume();
 		// 	pausedmidSongVideo = false;
 		// }
-		// if (PauseSubState.pauseCharacter.itsHim) {
-		// 	FlxG.autoPause = true;
-		// 	camOther.draw();
-		// }
 
 		#if desktop
 		if (health > 0 && !paused)
@@ -2999,17 +2995,6 @@ class PlayState extends MusicBeatState
 
 	override public function onFocusLost():Void
 	{
-		if (paused && PauseSubState.insidePause) {
-			if (PauseSubState.pauseCharacter.itsHim) {
-				PauseSubState.pauseCharacter.visible = false; //doesnt work maybe make a lime event ? //also big wip
-				FlxG.autoPause = false;
-				camOther.draw();
-				new FlxTimer().start(0.1, function (f:FlxTimer) {
-					FlxG.autoPause = true;
-				});
-
-			}
-		}
 
 
 

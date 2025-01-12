@@ -382,11 +382,8 @@ class PauseChars extends FlxTypedGroup<FlxBasic>
 
 
 		bfChar = new FlxSprite();
-		if (FlxG.random.bool(0.006)) { //0.006
-			bfChar.loadGraphic(Paths.image('friend/pause','ourplesecrets')); //0.006
-			itsHim = true;
-		}
-		else if (FileSystem.exists(Paths.getPath('images/pausemenu/${directory}chars/' + song + '.png',IMAGE))) 
+		
+		if (FileSystem.exists(Paths.getPath('images/pausemenu/${directory}chars/' + song + '.png',IMAGE))) 
 			bfChar.loadGraphic(Paths.image('pausemenu/${directory}chars/$song'));
 		else if (PlayState.SONG.song.toLowerCase() != 'followed') 
 			bfChar.loadGraphic(Paths.image('pausemenu/defaultportrait'));

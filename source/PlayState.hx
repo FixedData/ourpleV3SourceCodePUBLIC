@@ -5961,6 +5961,9 @@ class PlayState extends MusicBeatState
 
 	var lastBeatHit:Int = -1;
 
+	//really bad fix but whatever
+	public var preventBFIdle:Bool = false;
+
 	override function beatHit()
 	{
 		super.beatHit();
@@ -5988,7 +5991,7 @@ class PlayState extends MusicBeatState
 		{
 			gf.dance();
 		}
-		if (curBeat % boyfriend.danceEveryNumBeats == 0 && boyfriend.animation.curAnim != null && !boyfriend.animation.curAnim.name.startsWith('sing') && !boyfriend.stunned)
+		if (curBeat % boyfriend.danceEveryNumBeats == 0 && boyfriend.animation.curAnim != null && !boyfriend.animation.curAnim.name.startsWith('sing') && !boyfriend.stunned && !preventBFIdle)
 		{
 			if (usingAltBF != '') altBoyfriend.dance();
 			boyfriend.dance();

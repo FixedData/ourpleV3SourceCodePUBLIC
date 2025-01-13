@@ -11,7 +11,7 @@ function onEvent(n, v1, v2)
 	if (n == '') then
 		if (v1 == 'percs') then
 			spamperc = true;
-			setProperty("boyfriend.stunned",true)
+			setProperty("preventBFIdle",true)
 			playAnim("altBoyfriend", "perc", true)
 		end
 	end

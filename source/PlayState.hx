@@ -4124,7 +4124,8 @@ class PlayState extends MusicBeatState
 					iconP2.visible = false;
 					stage.lurkingcutIntro.visible = false;
 					stage.lurkingcutIntro.kill();
-					stage.lurkingcutIntro.destroy();
+					new FlxTimer().start(0,(f)->stage.lurkingcutIntro.destroy());
+					
 					triggerEventNote('PlayVideoSprite','lurking','');
 					if (!ClientPrefs.flashing) {
 						var darken = new FlxSprite().makeGraphic(FlxG.width,FlxG.height,FlxColor.BLACK);
